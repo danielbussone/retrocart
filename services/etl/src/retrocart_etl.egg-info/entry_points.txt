@@ -1,0 +1,2 @@
+[console_scripts]
+retrocart-etl = retrocart_etl.__main__:main

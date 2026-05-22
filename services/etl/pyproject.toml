@@ -1,0 +1,19 @@
+[project]
+name = "retrocart-etl"
+version = "0.0.0"
+description = "RetroCart No-Intro ETL pipeline (scaffold)"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = []
+
+[project.scripts]
+retrocart-etl = "retrocart_etl.__main__:main"
+
+[build-system]
+requires = ["setuptools>=75.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

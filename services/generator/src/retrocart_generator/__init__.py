@@ -1,0 +1,1 @@
+"""RetroCart catalog generator service."""

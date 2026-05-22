@@ -1,0 +1,21 @@
+{
+  "name": "retrocart",
+  "private": true,
+  "packageManager": "pnpm@9.15.4",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "predev": "pnpm --filter @retrocart/shared build",
+    "dev": "concurrently -n api,mobile -c blue,green \"pnpm --filter @retrocart/api dev\" \"pnpm --filter @retrocart/mobile dev\"",
+    "build": "pnpm -r run build",
+    "lint": "pnpm -r run lint",
+    "db:migrate": "docker compose --profile tools run --rm flyway",
+    "db:repair": "docker compose --profile tools run --rm flyway repair",
+    "generator:dev": "cd services/generator && ../../.venv-etl/bin/python -m uvicorn retrocart_generator.main:app --reload --host 0.0.0.0 --port 8001",
+    "etl:install": "(test -d .venv-etl || python3 -m venv .venv-etl) && .venv-etl/bin/python -m pip install -e './services/etl[dev]' -e './services/generator[dev]'"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

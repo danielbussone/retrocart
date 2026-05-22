@@ -1,0 +1,35 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: retrocart
+      POSTGRES_PASSWORD: retrocart
+      POSTGRES_DB: retrocart
+    ports:
+      - "5434:5432"
+    volumes:
+      - retrocart_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U retrocart -d retrocart"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  flyway:
+    image: flyway/flyway:10-alpine
+    profiles:
+      - tools
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./db/sql:/flyway/sql:ro
+    environment:
+      FLYWAY_URL: jdbc:postgresql://db:5432/retrocart
+      FLYWAY_USER: retrocart
+      FLYWAY_PASSWORD: retrocart
+      FLYWAY_LOCATIONS: filesystem:/flyway/sql
+    command: migrate
+
+volumes:
+  retrocart_pg:

@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: retrocart-etl
+Version: 0.0.0
+Summary: RetroCart No-Intro ETL pipeline (scaffold)
+Requires-Python: >=3.11
+Provides-Extra: dev
