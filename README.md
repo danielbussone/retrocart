@@ -57,5 +57,6 @@ curl http://localhost:8001/health
 
 ## Docs
 
+- [Library sync plan](docs/LIBRARY_SYNC_PLAN.md) — **current direction**: desktop sync, device tagging, ES-DE/OnionOS
 - [Architecture](docs/ARCHITECTURE.md)
 - [Open questions](docs/OPEN_QUESTIONS.md)

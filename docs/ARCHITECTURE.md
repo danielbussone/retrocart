@@ -2,9 +2,37 @@
 
 ## Overview
 
-RetroCart is a personal retro game collection curator. Users define console preferences, genre weights, and SD card storage budget; the system generates an optimized ROM catalog and supports iterative refinement (pin, swap, exclude, manual add).
+RetroCart is a personal retro game library manager. The **current product direction** (June 2026) is desktop-first library management on Windows: index a master ROM library, tag games per handheld device, and sync to SD cards (ROMs, saves, metadata, collections) when inserted. ES-DE and OnionOS are the primary sync targets.
 
-## Service topology (scaffold)
+The original curation concept (storage-budget catalog generation with pin/swap/exclude) remains as a future recommendation engine layered on top of device tagging. See **[LIBRARY_SYNC_PLAN.md](./LIBRARY_SYNC_PLAN.md)** for the full plan.
+
+## Target topology (planned)
+
+```mermaid
+flowchart TB
+  subgraph master [Master on Windows PC]
+    Scanner[Library Scanner]
+    MasterDB[(SQLite)]
+    SaveVault[Save Vault]
+  end
+  subgraph desktop [Tauri Desktop App]
+    UI[Tag and Collections UI]
+    SyncEngine[Sync Engine]
+  end
+  subgraph adapters [Frontend Adapters]
+    ESDe[ES-DE]
+    Onion[OnionOS]
+  end
+  SD[(SD Card)]
+  UI --> MasterDB
+  Scanner --> MasterDB
+  SyncEngine --> ESDe
+  SyncEngine --> Onion
+  ESDe --> SD
+  Onion --> SD
+```
+
+## Service topology (scaffold — pre-sync)
 
 ```mermaid
 flowchart LR
@@ -53,3 +81,7 @@ Scaffold uses a fixed dev user (`DEV_USER_ID` / `X-Dev-User-Id`). Replace with C
 The GraphQL API will call `POST /internal/generate` on the generator service. The scaffold exposes the endpoint but returns HTTP 501.
 
 See [OPEN_QUESTIONS.md](./OPEN_QUESTIONS.md) for unresolved product decisions.
+
+## Related docs
+
+- **[Library sync plan](./LIBRARY_SYNC_PLAN.md)** — multi-device sync, phased delivery, data model evolution
