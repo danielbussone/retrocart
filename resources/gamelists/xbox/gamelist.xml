@@ -1,0 +1,698 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./007 - Agent Under Fire (USA).iso</path>
+		<name>007 : Agent Under Fire</name>
+		<desc>CIA agent Zoe Nightshade, a mole in the Hong Kong-based botanical research firm Identicon Corporation, is discovered and captured while investiging Identicon as a possible front for a weapons-smuggling ring. James Bond (Andrew Bicknell) infiltrates the Identicon facility in an attempt to rescue her, as well as retrieve a suspicious courier case in the same building.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020326T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Games</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./007 - Everything or Nothing (USA).iso</path>
+		<name>007 : Everything Or Nothing</name>
+		<desc>A nanobot has been stolen from the work of a world-renowned scientist, Dr. Katya Nadanova, of the Oxford Department of Microtechnology by a man known only as "the General", and has kidnapped the girl as well. James Bond races to rescue both the scientist and to retake the nanobots, and kills the General along with the nanobot samples. Bond returns Kataya to a nearby base, but it turns out the scientist has not been so faithful to Oxford. Katya meets up with Nikolai Diavolo and gives him a hidden vial of the nanobots. Before long Bond is yet again called into action when MI6 loses contact with 003. And so Bond is off to Peru...</desc>
+		<rating>0.8</rating>
+		<releasedate>20040217T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Games</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-10</players>
+	</game>
+	<game>
+		<path>./007 - From Russia with Love (USA).iso</path>
+		<name>007 : From Russia With Love</name>
+		<desc>Building on 007: Everything or Nothing's range of strengths, 007: From Russia with Love is based on the 1963 film starring Sean Connery as James Bond. He is sent to Istanbul to acquire the Russian decoder machine known as the Lektor from a (supposedly) defecting Russian agent by the name of Tatiana Romanova. However, the Russians have no knowledge of this plan because it is a trap for James Bond created by the criminal organization known as Octopus. It is up to James Bond to seize the device and confront the dangerous assassin Red Grant and the ruthless Rosa Klebb.</desc>
+		<rating>0.8</rating>
+		<releasedate>20051101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shooter / TPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./007 - Nightfire (USA).iso</path>
+		<name>007 : Nightfire</name>
+		<desc>You take on the role of James Bond and must save the world. The Phoenix International Corporation is focused on dismantling nuclear warheads throughout the world, but lately evidence has been found that the CEO of the corporation, Raphael Drake, is using his company's concept as a means to find and use the warheads for his own purposes. Because his plans are so well hidden, it is up to Bond, with the help of Q and his gadgets, to stop Drake at whatever cost.</desc>
+		<rating>0.8</rating>
+		<releasedate>20021118T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Blinx - The Time Sweeper (USA) (En,Ja) (Rev 1).iso</path>
+		<name>Blinx : The Time Sweeper</name>
+		<desc>Blinx: The Time Sweeper is a fast-paced action game featuring a cool, clever new character in wild, warped worlds. The ability to control the flow of time provides a totally new 4-dimensional gaming experience only possible on Xbox.</desc>
+		<rating>0.8</rating>
+		<releasedate>20021007T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Artoon</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BloodRayne (USA).iso</path>
+		<name>BloodRayne</name>
+		<desc>BloodRayne is a killing machine. The Brimstone Society calls upon this half-vampire, half-human agent to take on two missions in the years between the world wars. At the root of these missions is one man who searches for powerful occult artifacts that would bring Germany into a new age of domination. As BloodRayne, you must stop this man's elite Nazi army from releasing terrorizing creatures onto the world. With melee attacks, weapons, and bloodsucking abilities, your enemies won't stand a chance.</desc>
+		<rating>0.7</rating>
+		<releasedate>20021015T000000</releasedate>
+		<developer>Terminal Reality</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Breakdown (USA).iso</path>
+		<name>Breakdown</name>
+		<desc>Breakdown is unique in that it is technically categorized as a first-person shooter, but integrates the experiences of a fighting game into the experience as well as using auto-lock-on for shooting enemies. The viewpoint never leaves the perspective of the player, and interaction with objects, reloading of guns, and the impact of hitting the floor are all seen through this first-person perspective. Unlike other first-person shooters, interaction with objects is also all done in a realistic manner in Breakdown; ammunition is picked up by looking down and grabbing it with your arm instead of walking over it, similarly doors are opened by grabbing the handle, key cards used by swiping them over a scanner, ladders by using the arms for climbing and many others. Health and energy are replenished by consuming energy bars, sodas and hamburgers, which the player must eat while remaining in first person.</desc>
+		<rating>0.8</rating>
+		<releasedate>20040316T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Brothers in Arms - Road to Hill 30 (World) (En,Fr,De,Es,It).iso</path>
+		<name>Brothers In Arms : Road To Hill 30</name>
+		<desc>Brothers in Arms, one of the few games to truly be based on actual events, places you in the shoes of real-life World War II Sergeant Matt Baker, tasked with commanding your squad through a week's worth of actual battles that Baker's 101st Airborne platoon faced. Combining the cinematic action of games such as Medal of Honor and Call of Duty with the strategic command of Full Spectrum Warrior, you must command your troops to use actual army doctrine to find, fix, flank, and finish the enemy while actually participating in the battle yourself.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050301T000000</releasedate>
+		<developer>Gearbox Software</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Burnout 3 - Takedown (USA).iso</path>
+		<name>Burnout 3 : Takedown</name>
+		<desc>Burnout 3: Takedown is a racing game which encourages aggressive driving and lets you use your vehicle to smash your way to the finish line by taking out your rivals and causing massive multi-car pileups. The more cars you take out, damage you inflict, the more events and cars you can unlock. Burnout 3 also has a "crash" mode which puts your vehicle at a variety of traffic junctions jam-packed with moving vehicles and pickups to see just how much monetary damage you can inflict.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040907T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Call of Cthulhu - Dark Corners of the Earth (USA).iso</path>
+		<name>Call Of Cthulhu : Dark Corners Of The Earth</name>
+		<desc>Detective Jack Walters arrived in Innsmouth to solve a case of a missing person. But soon he finds himself confronted with terrible mysteries older than humanity, and with ghosts of the mysterious events that led to his incarceration in a mental hospital years ago.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051024T000000</releasedate>
+		<developer>Headfirst</developer>
+		<publisher>2K Games</publisher>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Chronicles of Riddick, The - Escape from Butcher Bay (USA).iso</path>
+		<name>The Chronicles Of Riddick : Escape From Butcher Bay</name>
+		<desc>The Chronicles of Riddick: Escape from Butcher Bay is a first-person shooter for Xbox that puts you in the shoes of the eponymous hero played by Vin Diesel in the movies. The events take place between the two films, telling the story of the gruff, gruff hero's escape from Butcher Bay Penitentiary. Make your way past unattentive guards and use your night vision to get out of this hellish place.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040601T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Starbreeze</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Conker - Live &amp; Reloaded (USA) (En,Ja,Fr,De,Es,It).iso</path>
+		<name>Conker : Live &amp; Reloaded</name>
+		<desc>Conker: Live &amp; Reloaded is a combination of frantic online multiplayer action and a single-player mode, which is a remake of the original  Conker's Bad Fur Day for Nintendo 64 with more detailed and technologically advanced graphics, as well as re-recorded music. The single-player game plays very similarly to the original version, but a few gameplay-related changes have been made. Conker now uses a baseball bat instead of the frying pan (his default weapon in the original). A few particularly challenging sequences have been made slightly easier; for example, a crosshair has been added for the slingshot weapon. The remake also censors more swear words with "beeps" than the original release.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050621T000000</releasedate>
+		<developer>Rare Limited</developer>
+		<publisher>Microsoft Game</publisher>
+		<genre>Platform</genre>
+		<players>1-16</players>
+	</game>
+	<game>
+		<path>./Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko).iso</path>
+		<name>Crimson Skies : High Road To Revenge</name>
+		<desc>You take the role of the daring air pirate Nathan Zachary, leader of the infamous Fortune Hunters. The high-flying adventure's single player campaign is filled with escapes, defense/escort missions and dogfights. You can take on friends over Xbox Live! as well.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031021T000000</releasedate>
+		<developer>Fasa</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Simulation / Vehicle</genre>
+		<players>1-16</players>
+	</game>
+	<game>
+		<path>./Dead or Alive 3 (USA) (En,Ja).iso</path>
+		<name>Dead Or Alive 3</name>
+		<desc>Dead or Alive 3 (Japanese: ?3 Hepburn: Deddo Oa Araibu Sur, abbreviated as DOA3 ) is a fighting game in the Dead or Alive series. It was released in 2001, exclusively on the Xbox as a launch title.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Dead or Alive Ultimate (USA, Japan) (En,Ja) (Disc 1) (Dead or Alive 1 Ultimate).iso</path>
+		<name>Dead Or Alive : Ultimate</name>
+		<desc>Dead or Alive Ultimate combines the original Dead or Alive with a redesigned Dead or Alive 2 and takes the series online for the first time. Both games can be played on Xbox Live, which enables you to test your fighting skills against gamers from around the world. The new Dead or Alive 2 Ultimate features episodes from the characters' pasts that reveal new details surrounding some of the most popular characters.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041026T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Dead or Alive Ultimate (USA, Japan) (En,Ja) (Disc 2) (Dead or Alive 2 Ultimate).iso</path>
+		<name>Dead Or Alive : Ultimate</name>
+		<desc>Dead or Alive Ultimate combines the original Dead or Alive with a redesigned Dead or Alive 2 and takes the series online for the first time. Both games can be played on Xbox Live, which enables you to test your fighting skills against gamers from around the world. The new Dead or Alive 2 Ultimate features episodes from the characters' pasts that reveal new details surrounding some of the most popular characters.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041026T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).iso</path>
+		<name>Dead Or Alive : Xtreme Beach Volleyball</name>
+		<desc>Dead or Alive Xtreme Beach Volleyball throws the hot girls from the Dead or Alive fighting series into skimpy bathing suits and has them battling it out in high-powered volleyball matches. Not just your standard volleyball game, Dead or Alive Xtreme Beach Volleyball requires you to make nice with your partner. You can even make your rival's partner fond of you so she'll be less aggressive on the court. For this end, the game features an extensive lineup of items that can be bought as gifts, from new bathing suits to accessories like sunglasses or even desserts. Also includes mini-game diversions, like pool hopping and casino games. For up to two players.</desc>
+		<rating>0.7</rating>
+		<releasedate>20030122T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Def Jam - Fight for NY (USA).iso</path>
+		<name>Def Jam Fight For NY</name>
+		<desc>Fight for NY's story mode takes you through the ranks, and pits you against tougher and tougher fighters. You start off in D-Mobb's crew as a nobody, and will have to work your way up, fighting off people from other crews, including D-Mobb's rival, Crow. You'll take part mostly in one-on-one brawls, with the odd team match and free for all thrown in.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040920T000000</releasedate>
+		<developer>AKI</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Deus Ex - Invisible War (USA).iso</path>
+		<name>Deus Ex : Invisible War</name>
+		<desc>Twenty years have passed after the events described in Deus Ex. The actions of JC Denton have eventually led to a period of economic depression, known as "The Collapse". The world is on the brink of chaos after the dismantling of the mighty biotech corporations, and multiple religious and political groups lust after power.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031202T000000</releasedate>
+		<developer>Ion Storm</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-10</players>
+	</game>
+	<game>
+		<path>./Doom 3 (USA, Asia) (Limited Collector's Edition).iso</path>
+		<name>Doom 3</name>
+		<desc>The third game of the DOOM series (now in full 3D) takes gamers through the depths of Hell, where technology and demons meet. But this time round, the game is more focused on horror elements than previous games in series.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050403T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).iso</path>
+		<name>The Elder Scrolls III : Morrowind</name>
+		<desc>The Elder Scrolls III: Morrowind is an Xbox role-playing game that offers the player a lot of freedom. At the beginning you have to create a character by choosing among 10 races. Then you can decide whether to embark on the main quest or one of the many side quests offered. During your journeys you will meet many different creatures on which you can test your sword.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020606T000000</releasedate>
+		<developer>Bethesda Softworks</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fable - The Lost Chapters (USA) (En,Es).iso</path>
+		<name>Fable : The Lost Chapters</name>
+		<desc>The Lost Chapters features all the content found in the original Fable, as well as additional new content such as new monsters, weapons, alignment based spells, items, armour, towns, buildings, and expressions, as well as the ability to give children objects. The story receives further augmentation in the form of nine new areas and sixteen additional quests. Characters such as Briar Rose and Scythe, who played only minor roles in the original game, are now given more importance and are included in certain main and side quests. Other character-based augmentations include the voice of the antagonist, Jack of Blades, sounding deeper, harsher and more demonic, and the ability to uncover (and resolve) the murder mystery of Lady Grey's sister.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Lionhead Studios</publisher>
+		<genre>Action RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Far Cry Instincts (USA, Europe) (En,Fr,Es,It).iso</path>
+		<name>Far Cry Instincts</name>
+		<desc>The game follows the story of a man named Jack Carver. Carver is a former service member of the United States Navy, who was dishonorably discharged following a number of illegal actions. Afterwards, he sets up a shop in Manhattan and begins supplying illegal arms to anyone and everyone, until a gang performs a hit using weapons supplied by Jack against a Mafia heir. Consequently, a price is put on his head by the Mob, and he was forced to flee the United States and settle in Micronesia.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050927T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko).iso</path>
+		<name>Forza Motorsport</name>
+		<desc>Racing sim from Microsoft, targeted at gamers who are passionate about cars and racing. Own, customize, and race your favorite cars in the most technologically advanced and realistic driving sim yet. Use race earnings to buy upgrades and aftermarket parts, so you can transform real production cars into high-performance racers. On the track, experience an impressively accurate simulation, while putting your performance-tuned creations to the test against the online gaming world on Xbox Live. Features car models from more than 60 top car manufacturers, customization via decals and team paint-schemes, and vehicle tuning that really affects performance.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050503T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Fuzion Frenzy (USA).iso</path>
+		<name>Fuzion Frenzy</name>
+		<desc>Fuzion Frenzy is a launch title for the Microsoft Xbox. At its core, Fuzion Frenzy is a four-player party game featuring 45 different mini-games (not including the titular Fuzion Frenzy). A demo of the game was included with some other launch titles in the US, including Halo, Munch's Oddysee, the first Project Gotham Racing game and Amped. The title was among the first to be released as a part of the Xbox Originals program.
+
+A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
+		<rating>0.7</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Blitz Games</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Casual Game</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Halo 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).iso</path>
+		<name>Halo 2</name>
+		<desc>Halo 2 is the sequel to the highly successful and critically acclaimed Halo®: Combat Evolved. In Halo 2, the saga continues as Master Chief?a genetically enhanced super-soldier?is the only thing standing between the relentless Covenant and the destruction of all humankind.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft Game</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-16</players>
+	</game>
+	<game>
+		<path>./Indigo Prophecy (USA).iso</path>
+		<name>Indigo Prophecy</name>
+		<desc>January 2009. On a cold, snowy night in New York City, an ordinary citizen named Lucas Kane, under the control of an unknown force, unwillingly murders a complete stranger in a diner. Once he comes to senses, Lucas realizes he must escape while leaving as little evidence as possible behind. Barely managing to accomplish that, Lucas contacts his brother and tries to understand what has caused him to commit the crime, recalling the events of his own past in the process. Meanwhile, two police detectives investigating the murder, Carla Valenti and Tyler Miles, are determined to find the perpetrator, at the same time trying to deal with the personal problems of their lives.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050920T000000</releasedate>
+		<developer>Quantic Dream</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jade Empire (USA, Europe) (En,Es,It).iso</path>
+		<name>Jade Empire</name>
+		<desc>Set in an ancient world inspired by mythical China, Jade Empire lets you train under your master's watchful eye as you learn powerful martial arts and mystical powers. When danger threatens, you'll travel across the world, from the harsh mountains of the Land of Howling Spirits to the lush gardens of the Imperial City. In your adventures, you must face powerful human and supernatural foes, learn the exotic and magical martial arts, and discover the darkest secrets of the world. Practice the greatest fighting styles and defeat the most powerful enemies to become a master of martial arts.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050412T000000</releasedate>
+		<developer>BioWare</developer>
+		<publisher>Microsoft Game</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-10</players>
+	</game>
+	<game>
+		<path>./JSRF - Jet Set Radio Future (USA).iso</path>
+		<name>JSRF : Jet Set Radio Future</name>
+		<desc>A follow up to the Dreamcast title Jet Grind Radio. The setting is Tokyo in the year 2024. Freedom is a valuable commodity and freedom of expression even more so. Gangs of misbehaving teens strap on rocket-powered roller blades and skate, grind, and mark their territory with graffiti tags. Players take the role of the GGs, and can choose between any member of the gang, each with different stats, while in gang HQ. The city of Tokyo can be leisurely explored without a time limit, but the heat will be turned up when story missions are activated and the GGs find themselves being challenged by rival gangs or under attack from the cops. This time around spraying no longer requires thumbstick inputs; just roll up and start spraying away, although large tags still require more cans than smaller tags. Each section of the city has hidden objectives that are revealed by finding a hidden tape, and once completed these challenges will unlock new graffiti patterns.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020225T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>SEGA</publisher>
+		<genre>Adventure</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Max Payne (USA).iso</path>
+		<name>Max Payne</name>
+		<desc>The story is told in medias res and consists of three volumes: "The American Dream", "A Cold Day in Hell", and "A Bit Closer to Heaven". The game begins in the winter of 2001, as New York City finishes experiencing the worst blizzard in the history of the city. The intro sequence shows Max Payne, a renegade DEA agent and former NYPD officer, standing at the top of a skyscraper building as police units arrive. He then experiences a flashback from three years ago. Back in 1998, Max returned home to find that a trio of apparent junkies had broken into his house while high on a new designer drug called Valkyr. Max rushed to the aid his family, but was too late and his wife and their newborn daughter had already been brutally murdered. After his family's funeral, Payne transferred to the DEA. Three years later, Max Payne is employed as an undercover operative inside the Punchinello Mafia family responsible for the trafficking of Valkyr. His DEA colleague B.B. gives Max a message asking him to meet another DEA agent, who is also Max's best friend, Alex Balder, in the NYC Subway station. Max's arrival at the subway results in a shoot-out after he encounters mobsters working for Jack Lupino, a Mafia underboss in the Punchinello crime family, attempting a bank robbery by breaking through from the station. Working his way back to the surface, Max encounters Alex, who is then killed by an unknown assassin and Payne becomes the prime suspect in the murder. Additionally, the Mafia find out that he is a cop and now want him dead.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011212T000000</releasedate>
+		<developer>Remedy</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Shooter / TPV</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Max Payne 2 - The Fall of Max Payne (USA).iso</path>
+		<name>Max Payne 2 : The Fall of Max Payne</name>
+		<desc>A follow-up to 2001's Max Payne, Max Payne 2: The Fall of Max Payne features an all-new intriguing story and more slick combat. You play the role of Payne, a cop caught in a violent, film noir love story with a femme fatale murder suspect. Experience Payne's signature slow-motion gunplay with all new guns and new moves. The game features fully interactive environments, characters with ragdoll physics, and believable enemies. Max Payne 2 sets out to raise the bar for action game intensity once again.</desc>
+		<rating>0.8</rating>
+		<releasedate>20031125T000000</releasedate>
+		<developer>Remedy</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Shooter / TPV</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./MechAssault (USA, Europe) (En,Fr,De).iso</path>
+		<name>Mechassault</name>
+		<desc>MechAssault was the first BattleMech video game published for the Xbox. Developed by Day 1 Studios and published by Microsoft, MechAssault was initiated when Denny Thorley of Day 1 Studios approached Jon Kimmich of Microsoft about developing an original BattleTech game built from the ground up to support console play.[1] "MechAssault" was released in November of 2002. A sequel, MechAssault 2: Lone Wolf, was released on December 28, 2004. Both games are set in the BattleTech fictional universe</desc>
+		<rating>0.9</rating>
+		<releasedate>20021111T000000</releasedate>
+		<developer>Day 1</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / Vehicle, TPV</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Mercenaries (USA, Europe).iso</path>
+		<name>Mercenaries : Playground of Destruction</name>
+		<desc>Anything goes in this Playground of Destruction. You are a lethal Mercenary. Your mission is to topple a sinister military regime by any means necessary. If it drives or flies, you can hijack it. If it shoots or explodes, you can use it as a weapon. You are free to go anywhere, destroy anything and blow the crap out of everything. In this playground of destruction, there are no limits, no barriers and no mercy.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050111T000000</releasedate>
+		<developer>Pandemic</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ninja Gaiden Black (USA) (En,Ja).iso</path>
+		<name>Ninja Gaiden Black</name>
+		<desc>Ninja Gaiden Black puts you in the shoes of Ryu Hayabusa, a ninja by trade. After Lord Doku puts his clan to the sword, our hero sets out to exact his revenge, using his sacred sword and spectacular acrobatics. Pure action takes precedence over the infiltration traditionally associated with these shadowy beings.</desc>
+		<rating>1</rating>
+		<releasedate>20050920T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Oddworld - Munch's Oddysee (USA).iso</path>
+		<name>Oddworld : Munch's Oddysee</name>
+		<desc>Oddworld: Munch's Oddysee is a platform/adventure game released on Xbox. Players guide Mudokon champion Abe, and his aquatic Gabbit partner Munch, in Oddworld's third adventure, using special psychic powers, cool power-ups, and other special abilities to deliver payback as they reclaim the last gabbit eggs on Oddworld, which have been packaged in a can of gabbiar.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Oddworld - Stranger's Wrath (USA).iso</path>
+		<name>Oddworld : Stranger's Wrath</name>
+		<desc>A bounty hunter known only as the Stranger is pursuing and capturing various criminals, trying to earn enough money for a mysterious operation. When he hears that a town populated by Grubbs has been invaded by a demon, the Stranger ventures there. The town was once protected by a race of creatures known as the Steef, who now appear to be completely extinct. The Stranger soon discovers that a nearby river has been dried up by a dam, built by a person called Sekto. The Stranger must confront this person as he continues to hunt down outlaws, revealing nothing about his past. Oddworld: Stranger's Wrath is set in the fictional Oddworld universe, differing in many ways from the preceding installment. The game incorporates two basic genres: third-person platforming action and first-person shooter. The player can switch between the modes at any time by using a melee or a ranged weapon, respectively. The goal of the game, for the most part, is to bag the outlaws and bring them in, collecting "moolah" (the game's currency) in the process. The Stranger can stun or knock down enemies, as well as use a stealthy approach, e.g. hiding in long grass to surprise the enemy.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050125T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Otogi - Myth of Demons (USA).iso</path>
+		<name>Otogi : Myth Of Demons</name>
+		<desc>Otogi: Myth of Demons is a third-person action game which lets you play as Raikoh. Once a mighty warrior, he has been resurrected by a mysterious princess to free Japan of an army of demons and is held in the world of the living by her powers. Battle your enemies with either your sword, your magic, or both, and buy new weapons, spells and other items between missions to better your performance. The battle system, while simple at its roots, lets you execute a number of combinations of basic, heavy, spell, and dash attacks to strike at your enemies. Since Raikoh can stay long in mid-air and even rise up higher by executing certain slashes, fights take place in all three directions of the area.</desc>
+		<rating>0.8</rating>
+		<releasedate>20030827T000000</releasedate>
+		<developer>FromSoftware</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Otogi 2 - Immortal Warriors (USA).iso</path>
+		<name>Otogi 2 : Immortal Warriors</name>
+		<desc>Otogi 2: Immortal Warriors combines fantasy with real life folklore and fast paced action. It starts where its predecessor ended and this time Raikoh, the hero of the first game, is not alone. Five new warriors join him and combine their powers to tackle the task of saving the world from a new demonic threat. Gameplay is pretty much your regular hack &amp; slash, and there is lots of it. The player advances through levels, destroying huge amounts of mystical enemies with different attacks, both physical and magical,  while collecting experience which lets one improve the skills of the characters. New weapons and accessories can be purchased from a store between levels. Challenge levels separate from the main game open up as levels are completed, such as ones that task you wish surviving against a never ending horde of monsters, or destroying 100 arches in a limited time. Almost everything in the game's levels are destroyable, from trees to buildings, and the six playable characters are all different so one level might be easier to complete with one character than the other.</desc>
+		<rating>0.8</rating>
+		<releasedate>20041019T000000</releasedate>
+		<developer>FromSoftware</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Panzer Dragoon Orta (USA).iso</path>
+		<name>Panzer Dragoon Orta</name>
+		<desc>The fourth installment of the Panzer Dragoon series has you playing Orta, a young girl who has been imprisoned by the Empire. Under a wave of attack, the prison camp is broken through by a mysterious dragon, and Orta takes it upon herself to ride the dragon, and destroy the Empire once and for all. Along the way, she will also discover her own destiny, and the mystery surrounding her new friend.
+
+Simply put, you have limited control of the dragon for most of the game, as your trigger finger will be shooting non-stop at the enemies that fly around the area. Orta will be your main source of fire-power when you simply press the fire button, but by pressing and holding, the aim cursor will change, allowing you to fire a burst of power from the dragon at whatever the cursor aims at.
+
+The dragon itself can change into three forms at a press of a button. Each form has a different style of attack and power ability.
+
+A port of the original Panzer Dragoon is included.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030114T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Phantom Dust (USA) (En,Ja).iso</path>
+		<name>Phantom Dust</name>
+		<desc>Xbox action game Phantom Dust is set in a post-apocalyptic world where strange dust has fallen from the sky wiping everyone's memory. A group of humans who have developed supernatural powers, the Espers, have discovered two bodies in hibernation pods. One of the two is named Edgar, and could hold crucial information on ghost dust. The other is you.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050315T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Pirates - The Legend of Black Kat (USA).iso</path>
+		<name>Pirates : The Legend of Black Kat</name>
+		<desc>Pirates : Kat La Rouge is an action-adventure game for Xbox. You play as the beautiful Katarina who, after the murder of her father by the evil Captain Hawke, decides to take up piracy in order to exact her revenge by killing the demonic captain. The game features both land and sea battles and can be played by two players.</desc>
+		<rating>0.7</rating>
+		<releasedate>20020324T000000</releasedate>
+		<developer>Westwood  Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Project Gotham Racing 2 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Ko).iso</path>
+		<name>Project Gotham Racing 2</name>
+		<desc>Project Gotham Racing 2 is a racing game released for Xbox. Drive through the streets of the world's most famous cities in automotive gems such as Ferrari, Porsche and Lotus to earn Kudos that unlock more cars.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031117T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./RalliSport Challenge 2 (World) (En,Ja,Fr,De,Es,It).iso</path>
+		<name>Rallisport Challenge 2</name>
+		<desc>RalliSport Challenge 2 is a 2004 rally racing video game, and the sequel to the 2002 RalliSport Challenge. This game contains new features such as a cockpit cameras and ability to change car at the last moment. However, stats like total horsepower and number of gears have been eliminated from the car selection screen.
+
+Cars are split up into 5 categories with 2 subcategories each plus "Classic" cars. There are 4 paint schemes on each car and drivers must drive 31, 87, and 249 miles before unlocking a new one. By winning all championships in the career mode, all paint schemes for all cars are unlocked.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040504T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-16</players>
+	</game>
+	<game>
+		<path>./Shenmue II (USA).iso</path>
+		<name>Shenmue II</name>
+		<desc>Yu Suzuki's cinematic masterpiece returns with more spellbinding adventure and an even more immersive world. The epic continues as Ryo Hazuki arrives in Hong Kong on his quest to avenge his father's murder by the warlord Lan Di and unravel the mystery of the Phoenix mirror. Set in Hong Kong, Kowloon, and Guilin, you'll travel through breathtaking scenery, rich with mountainous wilderness, traditional Taoist temples, and stunning tropical landscapes. As you move through massive, highly-detailed 3D worlds, you'll interact with almost every facet of your environment as well as a whole new cast of characters.
+
+Originally released on Dreamcast in Europe and Japan, this Xbox edition marks the sequel's debut in the US and includes the Shenmue Movie chronicling the first episode in the series.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021030T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sid Meier's Pirates! (USA, Europe) (En,Fr,De,Es,It).iso</path>
+		<name>Sid Meier's Pirates!</name>
+		<desc>In Sid Meier's Pirates! players take the role of a Pirate Captain in the 17th century Caribbean – amassing fortune and fame in an attempt to seize a rightful place as one of the most revered and feared pirates in history.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050711T000000</releasedate>
+		<developer>Firaxis Games</developer>
+		<publisher>2K Games</publisher>
+		<genre>Adventure</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Soulcalibur II (USA).iso</path>
+		<name>SoulCalibur II</name>
+		<desc>SoulCalibur II is a fighting game for Xbox. Take on a host of opponents in armed duels in beautiful settings and try to destroy the evil sword. 13 characters are available, as well as a bonus character specific to each console (Heihachi on PS2, Link on GC and Spawn on Xbox). Various game modes are available, such as Team Fight, Arcade, Time Trial, VS Fight and Weapons Master.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030827T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting / 3D</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Star Wars - Battlefront (USA, Europe).iso</path>
+		<name>Star Wars Battlefront</name>
+		<desc>Star Wars Battlefront is an action game available on Xbox. Play as a soldier and fight on all fronts using all the weapons and vehicles at your disposal (TB-TT, X-Wing, speeder...). You can of course choose your side and your character class to take part in a host of missions alone or in multiplayer. Up to 32 players can compete in a network.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040921T000000</releasedate>
+		<developer>Pandemic</developer>
+		<publisher>LucasArts</publisher>
+		<players>1-24</players>
+	</game>
+	<game>
+		<path>./Star Wars - Battlefront II (USA, Europe) (En,Es,It).iso</path>
+		<name>Star Wars Battlefront II</name>
+		<desc>Star Wars Battlefront II on Xbox is a third-person shooter that puts you in the shoes of a clone of the great army of what will soon become the Empire. Through the eyes of this elite soldier, you will have to carry out the Emperor's plans, the storyline unfolding from the beginning of Revenge of the Sith to the conclusion of Return of the Jedi. A mutliplayer mode allows for multiplayer combat.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051101T000000</releasedate>
+		<developer>Pandemic</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-32</players>
+	</game>
+	<game>
+		<path>./Star Wars - Knights of the Old Republic (USA) (Rev 1).iso</path>
+		<name>Star Wars : Knights of the Old Republic</name>
+		<desc>Long before the Galactic Civil War, an epic drama begins. Engage in this saga set in the Golden Age of the Republic--over 4,000 years before the first Star Wars film, when both Jedi and Sith number in the thousands. With the Galaxy reeling from a recent conflict with the Dark Lords, the ongoing battle between the Jedi and the Sith rages on. It's up to guide your customizable and evolving characters through ten different worlds, fast-paced minigames, and locations including a Sith world, the Wookie homeworld, and the Jedi Academy. Your actions determine the outcome of this colossal galactic war--and your destiny as a Jedi.</desc>
+		<rating>1</rating>
+		<releasedate>20030715T000000</releasedate>
+		<developer>BioWare</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Star Wars - Knights of the Old Republic II - The Sith Lords (USA).iso</path>
+		<name>Star Wars : Knights of the Old Republic II : The Sith Lords</name>
+		<desc>Star Wars: Knights of the Old Republic II: The Sith Lords on Xbox is a role-playing game set 3,000 years before the events of the film saga. You play the role of a survivor of the Jedi order, saved by his exile. Can you regain your lost status and save the galaxy from a terrible Sith threat? The game uses the D20 system used in the paper role-playing game.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041206T000000</releasedate>
+		<developer>Obsidian</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Star Wars - Republic Commando (USA).iso</path>
+		<name>Star Wars : Republic Commando</name>
+		<desc>Star Wars: Republic Commando on Xbox puts you in command of a small, elite squad of the Empire's future great army. Accompanied by 3 other soldiers, each with their own specialism, you have to blast through the enemy and other droids that stand in your way. The story is located between episodes II and III of the great saga.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050301T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Thief - Deadly Shadows (USA).iso</path>
+		<name>Thief: Deadly Shadows</name>
+		<desc>Master Thief Garrett is contacted by the Keeper Artemus, who wants him to steal two valuable artifacts. Meanwhile, Garrett learns that the coming of a Dark Age had been prophesied long ago. Gaining access to the Keeper Prophecies, Garrett learns that an ancient book known as the Compendium of Reproach contains more information about the prophecy. As Garrett is trying to solve the mystery, it becomes more and more clear to him that there is a traitor in the order of the Keepers.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040525T000000</releasedate>
+		<developer>Ion Storm</developer>
+		<publisher>Eidos Interactive</publisher>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tom Clancy's Splinter Cell (USA) (En,Fr).iso</path>
+		<name>Tom Clancy's Splinter Cell</name>
+		<desc>Infiltrate terrorists' positions, acquire critical intelligence by any means necessary, execute with extreme prejudice, and exit without a trace. In Tom Clancy's Splinter Cell, you are Sam Fisher, a highly trained secret operative of the NSA's secret arm: Third Echelon. Suit up with the latest classified field operative gear and weapons as you travel through diverse mission objectives. The world's future is in your hands, as cyber terrorism and international tensions are about to explode into WWIII.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021117T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tom Clancy's Splinter Cell - Chaos Theory (USA, Europe) (En,Fr,De,Es,It).iso</path>
+		<name>Tom Clancy's Splinter Cell : Chaos Theory</name>
+		<desc>As Sam Fisher, Third Echelon's most skilled Splinter Cell operative, you are assigned to execute a hazardous series of operations to investigate and eliminate a new source of information attacks originating in North Korea. At your disposal is a lethal array of tactics ranging from Combat Knife techniques to experimental prototype weapons skills and more-radical hand-to-hand techniques such as the Inverted Chokehold. Experience the intensity of acting as a lone operative fighting tomorrow's threats in the field and of cooperating online with a partner to accomplish crucial missions.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050328T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 3 (USA).iso</path>
+		<name>Tony Hawk's Pro Skater 3</name>
+		<desc>You may not be able to live like the legend, but now you can skate like him. Skate as the legendary Tony Hawk or choose from a dream team of 12 top pro skaters, including old favorites like Lasek, Thomas, Muska, and Steamer, as well as new talent like Gilfberg, Caballero, Koston, and Mullen. Or enjoy full customization abilities with the enhanced Create-a-Skater (now including female skaters) and the Skatepark Editor. Travel from L.A. to Tokyo, Suburbia to Skater's Island performing challenges and meeting goals. New moves include the Revert, which allows you to link vert tricks, and flatland tricks such as Caspers, the Primo, and Handstand Manual. If you're good, you can even unlock hidden pro footage.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020304T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports / Skateboard</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 4 (USA).iso</path>
+		<name>Tony Hawk's Pro Skater 4</name>
+		<desc>Drop into the ultimate challenge. In the next chapter in the Tony Hawk series, pros challenge you to make your mark in huge free-roaming levels, taking on 190 progressively harder goals with no time limits to hold you back. Decide when you're ready to take on your Pro Challenge and move into the pro ranks, where it's a whole new game. Build your skills, perform all-new tricks, play up to eight players online, and show that you've got what it takes to go Pro.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021023T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports / Skateboard</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Top Spin (USA) (En,Fr,De).iso</path>
+		<name>Top Spin</name>
+		<desc>Top Spin is the complete tennis experience. Define your tennis playing style, take risks, pull off world-class shots, and work the crowd to develop a unique image on the court. You can also train with a coach, to master shots and playing surfaces and work your way up the online rankings to become the best in the world. Top Spin offers singles or doubles matches with 16 of the world's top professionals, including cover athletes Anna Kournikova and the world's number-one player, Lleyton Hewitt.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031028T000000</releasedate>
+		<developer>PAM Development</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Unreal Championship (USA, Europe) (En,Fr,De,Es,It).iso</path>
+		<name>Unreal Championship</name>
+		<desc>Unreal Championship can be played as a single player campaign or a multiplayer game.  In single player, you can fight solo against different and varying enemies, or you can lead a team in team-based games, like Capture the Flag and Bombing Run.  In multiplayer mode, you can play with up to four players on a single Xbox, or go online via Xbox Live to play with up to fifteen other people. There are five game modes; Deathmatch, which is your standard free for all, kill everyone; Capture The Flag, in which two teams fight to capture their enemies flag, then return it to theirs to score; Bombing Run, which is somewhat like soccer, where two teams have to take a ball and shoot it through a ring to score; Domination, where you must capture and hold three separate control points for a set time to score; and Survival, which is a last man standing kind of game, where the last person alive wins.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021112T000000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).iso</path>
+		<name>Unreal Championship 2 : The Liandri Conflict</name>
+		<desc>Unreal Championship 2: The Liandri Conflict is the sequel to the Xbox Live game Unreal Championship, and was designed from the ground up for Xbox, and the Xbox Live service. The game features 14 different characters and includes an expanded single player mode, enhanced mobility, and expanded upon combo system. The game also adds melee combat, by giving each character the possibility to switch to their respective weapon (e.g. blade, staff).</desc>
+		<rating>1</rating>
+		<releasedate>20050418T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Epic Games</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Voodoo Vince (USA).iso</path>
+		<name>Voodoo Vince</name>
+		<desc>No Pain, No Gain!
+
+Vince was just a voodoo doll in a French Quarter shop, but when his maker was kidnapped, he became a vengeful doll on a mission! Using voodoo powers, Vince must kick his own butt to beat his enemies! If he stand under a falling safe, bad guys get flattened! Stick a pitch fork in him, and his enemies are done!</desc>
+		<rating>0.9</rating>
+		<releasedate>20030923T000000</releasedate>
+		<developer>Beep</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tom Clancy's Splinter Cell - Pandora Tomorrow (USA, Europe) (En,Fr,De,Es,It).iso</path>
+		<name>Tom Clancy's Splinter Cell : Pandora Tomorrow</name>
+		<desc>Tom Clancy's Splinter Cell : Pandora Tomorrow, the sequel to the stealth-action game Splinter Cell, once again casts you in the role of Sam Fisher, who is sent in to destroy top-secret documentation held in the embassy of militia leader Suhadi Sadono. Use all-new moves and prototype gear to infiltrate buildings and spare the hostages. This time, you can take your games of espionage against three other players in online multiplayer mode, in which you choose to play as either a mercenary or spy. You've got the moves and the gear, now put them to use.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040323T000000</releasedate>
+		<developer>Ubisoft Shanghai</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Halo - Combat Evolved (USA) (Rev 2).iso</path>
+		<name>Halo: Combat Evolved</name>
+		<desc>Humanity is the midst of a long war against an alien alliance called the Covenant who have been wiping out colony after colony. You hero is Master Chief, who is given no name beyond his rank in the game itself. He is stationed on the Pillar of Autumn, a ship which, per protocol make a jump in a random direction to retreat to avoid revealing the location of Earth. They find themselves at the titular Halo, a planet-sized ring of mysterious origin and function with the Covenant on their heels. Master Chief must repel the Covenant assault and discover the secrets of Halo with the assistance of the female AI Cortana who lives in his suit and gives missions.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<playtime>32</playtime>
+		<lastplayed>20260628T001103</lastplayed>
+	</game>
+</gameList>

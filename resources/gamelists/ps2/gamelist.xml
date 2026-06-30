@@ -1,0 +1,1510 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>PCSX2 (Standalone)</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./Champions of Norrath (USA).chd</path>
+		<name>Champions of Norrath</name>
+		<desc>Champions of Norrath is a third-person dungeon crawler based on the EverQuest universe. There are five character classes to choose from (Barbarian Warrior, Wood Elf Ranger, High Elf Cleric, Dark Elf Shadow Knight, Erudite Wizard), each may be male or female. The game spans five acts that cover various randomly-generated locations across the world of Norrath.
+
+Up to four people may play on a single console offline using a multitap, and up to four people online - one per console - via a broadband connection using the Sony Network Adapter.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040210T000000</releasedate>
+		<developer>Snowblind</developer>
+		<publisher>Sony Online Entertainment</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Guilty Gear X2 (USA).chd</path>
+		<name>Guilty Gear X2</name>
+		<desc>Guilty Gear X2 is the sequel to Arc System Works' high-resolution fighter, Guilty Gear X. Similar to its predecessor, Guilty Gear X2 offers various tweaks and improvements, along with more tangible additions such as new fighters and extra modes. Gameplay is governed by a multitude of powerful special moves such as Psych Bursts, Roman Cancels, Overdrives, Faultless Defense, Dead Angles, and One-Hit Kills (Sammy Studios nomenclature for a stock selection of, cancels, air juggles and counters). A roster of 23 playable characters (some hidden) awaits players, and features an indiscriminate collection of old and new, though no less quirky, faces. Among the new arrivals are the androgynous, yo-yo wielding Bridget and I-No, a leather-clad woman armed with a guitar.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030205T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Suikoden III (USA).chd</path>
+		<name>Suikoden III</name>
+		<desc>Fifteen years after the events of Suikoden II, the stories of Hugo (the son of a village chief), Chris (the virtuous Knight of Zexen), and Geddoe (the rebellious unit commander) intertwine as they gather the 108 Stars of Destiny. Suikoden III features three different battle systems and three styles of combat in a 3D world. Customize each of your three character's skills, and then pair them together to unleash devastating combo attacks.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021022T000000</releasedate>
+		<developer>KCET</developer>
+		<publisher>Konami</publisher>
+		<genre>Japanese RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gran Turismo 3 - A-Spec (USA) (v1.10).chd</path>
+		<name>Gran Turismo 3 : A-spec</name>
+		<desc>The third game in the Gran Turismo series of racing games for PlayStation and PlayStation 2.
+
+This time with an even more realistic driving experience. Lighting now has an effect on the game, such as buildings blocking the sunlight. There are now smoke effects caused by skidding. Now there is even heat rising from the road.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010709T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-6</players>
+	</game>
+	<game>
+		<path>./Maximo - Ghosts to Glory (USA).chd</path>
+		<name>Maximo : Ghosts to Glory</name>
+		<desc>The game is based in the Ghosts'n Goblins universe and features original character designs by Japanese illustrator Susumu Matsushita.
+
+The character is controlled by the player and can move freely within areas by running, jumping, crouching, and performing other various motions. Gameplay revolves around defeating large numbers of enemies, which can be accomplished by attacking with a sword and shield and combos and special moves. Maximo fights wearing armor, if he is hit, he will lose corresponding pieces of armor and eventually be reduced to wearing his boxer shorts, with another hit resulting in him losing a life. If Maximo loses all his lives, he can continue by giving Death Coins to the Grim Reaper. However, every time he loses all his lives, the required cost for a continue increases.</desc>
+		<rating>0.8</rating>
+		<releasedate>20020213T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Maximo vs Army of Zin (USA).chd</path>
+		<name>Maximo vs Army of Zin</name>
+		<desc>The sequel to Maximo: From Ghosts to Glory, which was loosely based on the classic Ghosts 'n Goblins series, Maximo vs Army of Zin puts players in the role of Maximo, a master swordsman with a penchant for battling undead creatures. The action picks up where Ghosts to Glory left off, as the title hero must abandon his kingdom in order to search for his missing girlfriend. The developers at Capcom promise a more engrossing story this time around and have removed the hub screen, meaning each level flows into the next. There are 26 levels in all spread across six different environments.
+ As in earlier games in the series, Maximo wears boxer shorts beneath his armor. However, the underwear in this game actually serves a functional purpose beyond comic relief. </desc>
+		<rating>0.8</rating>
+		<releasedate>20040120T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Metal Gear Solid 2 - Substance (USA).chd</path>
+		<name>Metal Gear Solid 2 : Substance</name>
+		<desc>Metal Gear Solid 2: Substance is a re-vamped and revised edition of the original Metal Gear Solid 2: Sons of Liberty, in which Solid Snake must recover the stolen Metal Gear Ray from a group of terrorists bent on using its power for unthinkable reasons.
+
+Along with the original espionage shooter comes a collection of 200 virtual reality (VR) missions. Missions range from killing certain targets and using particular weapons, as well as seeing the world of Solid Snake from different perspectives and styles, with first-person target modes and a variety mode including crazy characters of different shapes and sizes. 
+
+Also included are various alternative missions, ranging from the protagonist sneaking around and snapping photos of targets to bomb disposal, all out destruction, and more.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030303T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence).chd</path>
+		<name>Metal Gear Solid 3 : Subsistence</name>
+		<desc>Metal Gear Solid 3: Subsistence continues the Metal Gear Solid series tradition of follow-up enhanced, international version releases.
+Subsistence's online multiplayer component, titled Metal Gear Online, consists of five tournament-style game modes, each with a capacity of up to eight players. This mode pits players, each playing as a generic soldier against each other in deathmatch battles and variations of capture the flag, using stages, items, maneuvers, and units (such as the KGB, GRU or Ocelot Unit) from the main game.</desc>
+		<rating>1</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Konami Computer Entertainment</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Need for Speed - Underground 2 (USA, Canada).chd</path>
+		<name>Need for Speed : Underground 2</name>
+		<desc>The next installment in the Need for Speed Underground series takes you to a free-roaming city comprised of five neighborhoods. As you explore the city, you'll encounter rival racers who will show you all the hot spots in underground racing. After each race, you can improve your car's performance with various upgrades, ranging from the gear ratio to the suspension. The game includes more than 30 tuner cars from a variety of manufacturers, such as Mitsubishi, Nissan, Toyota, and more. You can even challenge racers from around the world in the game's online mode.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041115T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Games</publisher>
+		<genre>Racing, Driving</genre>
+	</game>
+	<game>
+		<path>./TimeSplitters (USA) (v2.00).chd</path>
+		<name>TimeSplitters</name>
+		<desc>The TimeSplitters are an evil race dwelling outside of time and space. Roused from an ancient sleep, they cross the threshold from their shadowy dimension, ripping through the fabric of time itself to make humanity history. Can we unite against a common enemy? Or will we be condemned forever to a realm ruled under the shadow of the TimeSplitters. In the 1-player game you travel from time to time to collect different artifacts before the Timesplitters can. The multiplayer game is 4-player Deathmatch with the option of adding several bots.</desc>
+		<rating>0.8</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Radical Software</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./TimeSplitters - Future Perfect (USA).chd</path>
+		<name>TimeSplitters : Future Perfect</name>
+		<desc>In TimeSplitters: Future Perfect, humanity is on the brink of destruction by the evil TimeSplitters. With the help of some familiar faces, Cortez--the tough hero from previous installments--must chase a mystery foe across different time periods to trace the origins of the TimeSplitters.nnnnAs Cortez, you'll have access to weapons, gadgets, characters, and environments that are unique to each time period. You can also correct the mistakes made in athe past or team up with past and future versions of yourself in battles.</desc>
+		<rating>1</rating>
+		<releasedate>20050321T000000</releasedate>
+		<developer>Free Radical Design</developer>
+		<publisher>EA Games</publisher>
+		<genre>Shooter / FPV</genre>
+	</game>
+	<game>
+		<path>./TimeSplitters 2 (USA).chd</path>
+		<name>TimeSplitters 2</name>
+		<desc>TimeSplitters 2 returns, surpassing its predecessor with a larger-than-life experience. This sequel expands on every front, offering faster-paced action, richer storytelling, and diverse graphical styles across nine thrilling time-traveling adventures. From the lawless Wild West to the neon-lit streets of Neo Tokyo, each era boasts its own atmosphere and challenges.nnnnImmerse yourself in a captivating single-player and cooperative story mode, where animated cut-scenes weave a compelling narrative. Explore a plot that spans across time, uncovering mysteries and facing memorable foes and allies. The campaign balances action-packed gameplay with exploration and discovery, appealing to both veterans and newcomers alike.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021008T000000</releasedate>
+		<developer>Free Radical Design</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Medal of Honor - Frontline (USA).chd</path>
+		<name>Medal of Honor : Frontline</name>
+		<desc>Head back behind enemy lines with Lt. Jimmy Patterson in Medal of Honor Frontline. In this installment of the Medal of Honor series, Lt. Patterson is on a mission to infiltrate the German frontline and steal the HO-IX flying wing, an experimental Nazi weapon so powerful it could turn the tide of World War II. All 20 levels and six major missions in the game are based on real World War II events. You'll also find authentic weapons, including the Colt .45, Springfield sniper rifle, Panzerschreck rocket launcher, and Browning automatic rifle. The World War II experience just got more intense.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020528T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mercenaries (USA).chd</path>
+		<name>Mercenaries - Playground of Destruction </name>
+		<desc>Adventuresome gamers aim to eliminate a maniacal dictator -- for the good of humanity, as well as significant monetary compensation from the highest bidder. As its title suggests, Mercenaries puts players in the roles of soldiers for hire, who find ample opportunities for employment as an unexpected menace leads the nations of the world to the brink of disaster. In a quick and bloody coup, the prime minister of North Korea has been displaced by a power-hungry general called Sung, who now threatens the world with nuclear attack. In the role of an American, British, or Swedish soldier of fortune, players choose their patron and price, and then go to work at eliminating the 52 most wanted perpetrators of the new North Korean regime. Each target is assigned a different playing card, for easy reference.
+</desc>
+		<rating>0.9</rating>
+		<releasedate>20050110T000000</releasedate>
+		<developer>Pandemic</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shin Megami Tensei - Nocturne (USA).chd</path>
+		<name>Shin Megami Tensei : Nocturne</name>
+		<desc>Shin Megami Tensei III: Nocturne[a] is a role-playing video game developed by Atlus for the PlayStation 2. It was published by Atlus in Japan and North America, and by Ghostlight in Europe. It is the third numbered entry in the Shin Megami Tensei series, the central series in the Megami Tensei franchise. 
+
+Nocturne follows a high school student in post-apocalyptic Tokyo, who is transformed into the demonic Demi-fiend after the world undergoes Conception, an apocalyptic event triggered by a sinister cult to enable the world's rebirth in a new form. With Tokyo transformed into a Vortex World filled with demons, the Demi-fiend becomes instrumental to the schemes of the Reasons, beings who seek to remake the world in their image, and Lucifer, the lord of demons. The gameplay uses a turn-based battle system based on exploiting weaknesses, and a Demon recruitment system allowing the player to recruit demons found in the Vortex World to fight alongside them.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041012T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Xenosaga Episode I - Der Wille zur Macht (USA).chd</path>
+		<name>Xenosaga Episode I : Der Wille zur Macht</name>
+		<desc>Xenosaga: Episode I, is a Japanese-style sci-fi role-playing game. The battle system is similar to Xenogears (combo attacks, AP and EP gauges, ...) but random encounters are eliminated. During combat the few upcoming ally and enemy turns are shown onscreen, allowing to make strategic decisions based on who will act next. A rolling slot moves with each turn as well, conferring a bonus such as added damage or bonus XP for any action on that turn. If the enemy would be in position to take an advantage then the player can expend a character's "boost" gauge to jump in, although enemies can boost as well.
+
+Each character has a unique tree of Ether spells they can learn by spending Ether points, with lower spells requiring spells above them to be purchased first. After a spell is purchased, so long is it does not require a unique talent of that character, the spell can also be purchased and learned by any other character that can afford double its normal cost. The Anti-Gnosis Weapon Systems can be used in combat provided that a character has enough AP on that turn to board their AGWS.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Xenosaga Episode II - Jenseits von Gut und Bose (USA) (Disc 1).chd</path>
+		<name>Xenosaga Episode II : Jenseits von Gut und Boese</name>
+		<desc>The story takes place thousands of years in the future, when mankind has long left the Earth, which is now called Lost Jerusalem, and founded a star empire. The main threat humanity has to face is the appearance of a super-powerful alien race called the Gnosis. The story picks up just after the concluding events of the first episode. Shion Uzuki, the young engineer who designed the powerful android KOS-MOS, arrives with her friends at the planet Second Miltia. They aim to learn more about the heritage of the late genius scientist Joachim Mizrahi, and foil the schemes of the mysterious antagonists Albedo and Margulis.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050215T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Xenosaga Episode II - Jenseits von Gut und Bose (USA) (Disc 2).chd</path>
+		<name>Xenosaga Episode II : Jenseits von Gut und Boese</name>
+		<desc>The story takes place thousands of years in the future, when mankind has long left the Earth, which is now called Lost Jerusalem, and founded a star empire. The main threat humanity has to face is the appearance of a super-powerful alien race called the Gnosis. The story picks up just after the concluding events of the first episode. Shion Uzuki, the young engineer who designed the powerful android KOS-MOS, arrives with her friends at the planet Second Miltia. They aim to learn more about the heritage of the late genius scientist Joachim Mizrahi, and foil the schemes of the mysterious antagonists Albedo and Margulis.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050215T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 1).chd</path>
+		<name>Xenosaga Episode III : Also sprach Zarathustra</name>
+		<desc>The story of Xenosaga III starts a year after "Xenosaga II" ended. Shion has resigned from Vector Industries after learning that the company is deeply connected to the appearance of the Gnosis. She instead joins Scientia, an underground organization working to unveil Vector's secrets in order to bring them down. Uncover the truth and save mankind in the finale of the Xenosaga series which boasts over 3 hours of movies, an updated battle system, and an improved customization feature with more in-depth character specialization and diversification and higher rewards for strategic party management. This RPG also includes an easily accessible database feature, the "Xeno Bible" and a mini-game with over 50 levels that challenges both you and your friends.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060706T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).chd</path>
+		<name>Xenosaga Episode III : Also sprach Zarathustra</name>
+		<desc>The story of Xenosaga III starts a year after "Xenosaga II" ended. Shion has resigned from Vector Industries after learning that the company is deeply connected to the appearance of the Gnosis. She instead joins Scientia, an underground organization working to unveil Vector's secrets in order to bring them down. Uncover the truth and save mankind in the finale of the Xenosaga series which boasts over 3 hours of movies, an updated battle system, and an improved customization feature with more in-depth character specialization and diversification and higher rewards for strategic party management. This RPG also includes an easily accessible database feature, the "Xeno Bible" and a mini-game with over 50 levels that challenges both you and your friends.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060706T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ace Combat 04 - Shattered Skies (USA).chd</path>
+		<name>Ace Combat 04 : Shattered Skies</name>
+		<desc>Ace Combat makes its first trip on the Playstation 2. It's real world dog-fighting with a collection of the best fighter jets on the planet including the F-22 Raptor, F-16 Fighting Falcon, F-117 Nighthawk, U-2 Dragon Lady, C-130 Hercules and SR-71 Blackbird. 
+
+18 missions will take you from search and destroy buildings to one-on-one and all-on-all dog-fighting. Along the way you can upgrade your fighter with defense systems, deadly weapons and much more.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011101T000000</releasedate>
+		<developer>Project Aces</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Shooter / Plane</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>37</playtime>
+		<lastplayed>20260623T144405</lastplayed>
+	</game>
+	<game>
+		<path>./Ace Combat 5 - The Unsung War (USA) (En,Ja).chd</path>
+		<name>Ace Combat 5 : The Unsung War</name>
+		<desc>Ace Combat 5: The Unsung War is a first person air combat and flight simulator. Like other Ace Combat games, each mission is determined by a level briefing and objectives. There are 32 missions in the main campaign mode, while an additional "arcade" mode puts the player in the role of Mobius One (from Ace Combat 04: Shattered Skies) as he faces endless waves of enemy attacks. Regardless of the mode chosen, once in the air the player will have control over speed, direction, altitude, gun cannon, missiles and special weapon of their aircraft. A new feature from previous Ace Combat games, is the concept of Wingmen and being able to issue simple orders to them in the air. This allows the player to better coordinated group attacks as well as giving each wingman a personality of their own. Additionally, the player as squadron leader will be asked to make decisions ("Yes/No") while flying in the air. Between missions, the story is progressed through a series of cutscenes.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041025T000000</releasedate>
+		<developer>Project Aces</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Shooter / Plane</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ape Escape 2 (USA).chd</path>
+		<name>Ape Escape 2</name>
+		<desc>Ape Escape 2 is the sequel to Ape Escape. In this platform game it's your goal to catch all the apes jumping, walking and flying around the diverse levels the game has to offer.
+
+A large arsenal of gadgets can be used to make it all a little easier, with the catching net being the most important weapons of them all. Other gadgets include a RC Car, to drive over monkeys and collect objects, an Ape Radar, to detect the nearest monkey, a baseball bat, to hit monkeys unconscious, and a magnet, to move certain objects in the maps.
+
+Your quest is to catch all monkeys in the levels and to stop the evil Specter from taking over the world. All monkeys in the levels are somewhat unique with their own character abilities and their unique name. Some monkeys just sit in their place, while others attack you with projectiles or run away quickly.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030630T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ape Escape 3 (USA).chd</path>
+		<name>Ape Escape 3</name>
+		<desc>Specter is back once again in the third main game in the Ape Escape series. With the help of a human scientist named Doctor Tomoki, Specter has turned the monkeys loose on TV. Even the previous heroes of the series - Jimmy, Spike, and the professor - are all caught up in the insidious TV shows.
+
+Kei and Yumi take the lead as the new heroes. Their quest is to capture all 400 monkeys. You control either Kei or Yumi. The gameplay involves using various methods and weapons to catch them all. The game has many levels with different themes, such as a Haunted Castle, a Racing level, Jungle settings, TV studios and other settings. You can slow the animals down with various objects such as a stun club or a slingback shooter, and then you can capture them with a net. 
+
+New to the series are the morphing abilities, eight in all. You can morph into various characters, like a knight and perform a powerful attack or a gun fighter and shoot em up or a ninja and run along walls. You can also vehicles such as a race car to knock down the monkeys. Other features are the familiar Monkeypedia and the unlockable Mesal Gear Solid mini-game (a Metal Gear Solid spoof). </desc>
+		<rating>0.8</rating>
+		<releasedate>20060117T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Armored Core 3 (USA).chd</path>
+		<name>Armored Core 3</name>
+		<desc>Armored Core 3 once again puts you in the shoes of a Raven mercinary, with the task of piloting your own battle machine to use in a range of tasks (from destroying other mechs to seek and destroy missions).
+
+After each missions, you are payed in full. The money raised can then go on towards the purchase of items for your mech. Weapon upgrades, better shields, even the opportunity to purchase what's called an Exceed Orbit, smaller robot gun emplacements that hover around your mech, giving you an added boost of fire power in the crunch.
+
+4 player deathmatch modes are also included, where you each pit your supped-up mechs against each other to see who is the last robot standing.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020905T000000</releasedate>
+		<developer>FromSoftware</developer>
+		<publisher>Metro3D</publisher>
+		<genre>Shooter / Vehicle, TPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Baldur's Gate - Dark Alliance (USA).chd</path>
+		<name>Baldur's Gate : Dark Alliance</name>
+		<desc>Baldur's Gate: Dark Alliance casts the player as one of three basic characters: an elf sorceress, a human archer, or a dwarf fighter. From humble beginnings slaying rats in the cellars of an inn, the adventurer will move on to exploring caves, crypts, and mountain passes. Naturally, it's all filled to the brim with horrible monsters, wicked traps, treasures, and fabled magical weapons. As the game progresses the player is constantly rewarded with new weaponry, new monsters to fight, and experience points to put into the adventurer's character stats to grow even more powerful. The adventurer must eventually unravel the secrets of a dark, new Thieves Guild backed by powerful mages.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011204T000000</releasedate>
+		<developer>Snowblind</developer>
+		<publisher>Interplay</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Baldur's Gate - Dark Alliance II (USA).chd</path>
+		<name>Baldur's Gate : Dark Alliance II</name>
+		<desc>The threat of the Onyx Tower has passed for now, but mere moments pass before a new threat to the Sword Coast arises. The heroes of the Onyx Tower have disappeared, so the fate of Baldur's Gate now rests on the shoulders of five wandering adventurers who are only now journeying into the region.
+
+Baldur's Gate: Dark Alliance II can be played solo or cooperatively with one other player, each choosing from 5 playable characters. The gameplay is the same as its previous incarnation: kill monsters and bad guys to collect treasure, items, and experience. By talking to townspeople in Baldur's Gate the player can learn of optional maps filled with more dangerous monsters and additional treasure. Equipment can be enchanted by the player this time, and given various magical effects such as additional fire damage, absorbing mana, or boosting stats.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040120T000000</releasedate>
+		<developer>Black Isle</developer>
+		<publisher>Interplay</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Bard's Tale, The (USA).chd</path>
+		<name>The Bard's Tale</name>
+		<desc>The Bard is a cynical, opportunistic musician who roams the country in search of carnal pleasures. However, this impatient and selfish fellow is compelled to accept the greatest quest of his life: save the princess Caleigh from a demonic cult that has kidnapped her. The unlikely hero must now explore the land in search of the princess, accompanied by the omnipresent Narrator who obviously can't stand the Bard and uses every opportunity to sarcastically comment on his actions. Furthermore, Fionnaoch, the mysterious abductor of the princess, does everything he can to stop the Bard, sending his minions after him.
+
+A self-proclaimed "quest for coin and cleavage", The Bard's Tale is an action RPG that is more of a whimsical take on role-playing games than a remake of the classic series. As the Bard, players can fight off hordes of foes with blade and bow, and summon companions through magical Bard Songs. Leveling up allows the player to raise the character's main attributes and invest specialization points in the different types of weapons he can use. Magical companions must be sought out and then summoned during battles. After being summoned, they act pretty much like AI-controlled party members; some of them specialize in physical attacks and offensive spells, while others can heal the hero.
+
+During conversations the player can choose "nice" or "snarky" responses for the protagonist. While mostly used for humorous effect, some of these responses may affect subsequent events. The game uses the Dark Alliance engine and has a similar camera and control scheme.</desc>
+		<rating>0.8</rating>
+		<releasedate>20041026T000000</releasedate>
+		<developer>inXile Entertainment</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Beyond Good &amp; Evil (USA) (En,Fr,Es).chd</path>
+		<name>Beyond Good &amp; Evil</name>
+		<desc>In the future, on the planet Hillys, the population suffers from constant attacks from the alien DomZ. The situation is gradually getting worse, as the rate of DomZ kidnapings increase. The Alpha Section forces, who are in charge of protecting citizens, seem to be completely ineffective, not even fighting the DomZ. In the midst of this situation, the secretive organization IRIS alleges that the Alpha Section is involved in a massive government conspiracy, and seeks to expose the truth through journalism.
+
+</desc>
+		<rating>0.9</rating>
+		<releasedate>20031111T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Breath of Fire - Dragon Quarter (USA).chd</path>
+		<name>Breath of Fire : Dragon Quarter</name>
+		<desc>Breath of Fire: Dragon Quarter is a radical departure from the previous titles of the Breath of Fire series, and in some ways from standard Japanese-style role-playing games in general. The game is built like a huge dungeon crawler, with no overworld map. The combat is tactical: each character has action points (AP), which can be used to move around the screen during an enemy encounter, and perform a variety of combo attacks. There is no magic in the game, and many of the items found in dungeons are random. All the enemies are visible on screen. Depending on who first initiated a physical contact, the party or the enemies get an extra turn in battles.
+
+The game allows (and even encourages) the player to restart it from the beginning, keeping the items and the party experience. The game also features a special counter - Ryu can use his traditional dragon transformation abilities, but the counter raises with each such transformation, and when the counter reaches 100, the game is over. Raising the D-ratio allows characters to access new areas every time the game is replayed.</desc>
+		<rating>0.8</rating>
+		<releasedate>20030216T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Japanese RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bully (USA).chd</path>
+		<name>Bully</name>
+		<desc>Bully is a subtle sandbox game set in a school environment. The player takes control of teenage rebel James "Jimmy" Hopkins, who from the opening cutscene is revealed to be a difficult student with a disruptive background. The game concerns the events that follow Jimmy being dropped off at Bullworth Academy, a fictional New England boarding school. The player is free to explore the school campus in the beginning and, later on in the game, the town, or to complete the main missions. The game makes extensive use of minigames. Some are used to earn money, others to improve Jimmy's abilities or get new items.
+
+School classes themselves are done in the form of minigames, broken into five levels of increasing difficulty. Each completed class brings a benefit to gameplay. English, as an example, is a word scramble minigame, and as Jimmy does well in this minigame, he learns various language-skills, such as the ability to apologize to police for small crimes. Chemistry also an example, is a button pushing minigame, and if Jimmy does well, he gains the ability to create firecrackers, stink bombs, and other items at his chemistry set in his room at the dorm.</desc>
+		<rating>0.9</rating>
+		<releasedate>20061017T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Burnout 3 - Takedown (USA).chd</path>
+		<name>Burnout 3 : Takedown</name>
+		<desc>Burnout 3: Takedown is a racing game which encourages aggressive driving and lets you use your vehicle to smash your way to the finish line by taking out your rivals and causing massive multi-car pileups. The more cars you take out, damage you inflict, the more events and cars you can unlock. Burnout 3 also has a "crash" mode which puts your vehicle at a variety of traffic junctions jam-packed with moving vehicles and pickups to see just how much monetary damage you can inflict.
+
+Burnout 3: Takedown continues the racing series with more cars, more tracks, a more detailed crash engine, and a multitude of new gameplay modes for single players, multiple players on one system, and online play.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040907T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Capcom vs. SNK 2 - Mark of the Millennium 2001 (USA).chd</path>
+		<name>Capcom vs. SNK 2 : Mark of the Millennium 2001</name>
+		<desc>Capcom vs. SNK 2 combines characters and gameplay elements from various Capcom and SNK fighting games, mainly the Street Fighter and The King of Fighters series. Other elements, most noticeably different fighting styles, incorporated elements from other games as well, such as Street Fighter III, Garou: Mark of the Wolves, and the Samurai Shodown series.
+Choose from over 44 characters from an arsenal of fighters from the Capcom and SNK fighting universes and customize your fighting style with even more fighting Grooves.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011106T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Dark Cloud (USA).chd</path>
+		<name>Dark Cloud</name>
+		<desc>Dark Cloud is set within a fantastic world with two moons called Terra. The world is made of two main continents referred to as the East and West. The eastern continent has a focus on technology, and the civilization is advanced whereas the western continent is less so, and its people prefer to "live in harmony with nature".
+On the western continent are settlements that were sealed away by the Fairy King during the attack by the Dark Genie and where the game primarily takes place; Norune, Matataki, Brownboo, Queens, Muska Lacka and a settlement on one of Terra's moons, Yellow Drops (Brownboo and Yellow Drops being unaffected).</desc>
+		<rating>0.9</rating>
+		<releasedate>20010528T000000</releasedate>
+		<developer>Level-5</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dark Cloud 2 (USA) (v2.00).chd</path>
+		<name>Dark Cloud 2</name>
+		<desc>As a young inventor, you are called upon to search the dangerous dungeons, battle evil monsters and re-claim towns and cities.
+
+By fighting your way through the various dungeons, you must find various ores hidden away. With these ores, you can determine which parts you need to re-build a town. It is up to you to find or create the parts needed to build the various buildings of each town, as well various other parts to each town.
+
+During your adventure, you can also take pictures of various items. Once you have a certain amount, you can then come up with ideas for an invention that will aid you in your quest. From there, you must again find the parts needed to create the invention, and then use the invention either to help you defeat enemies or build the towns.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030217T000000</releasedate>
+		<developer>Level-5</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Devil May Cry (USA).chd</path>
+		<name>Devil May Cry</name>
+		<desc>Half Man. Half Demon. Pure Vengeance. Legends tell of two millennia ago, in the darkest reaches of Hell, a demon swordsman named Sparda awoke to justice and a rebelled against the devil to wage a one-man war to save the human world from damnation. Now, 2000 years later, a dark figure named Dante finds clues that the Devil is rallying to rise up again against mankind. Who was Sparda and how does Dante fit into this gothic puzzle? Deep within Dante's blood lies the power of ancient demons and the key to defeat the hordes of the dark realm. Somewhere between a man and a demon lies our only chance for salvation. If he succeeds, even the Devil May Cry.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011016T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Devil May Cry 3 - Dante's Awakening (USA) (En,Ja) (Special Edition).chd</path>
+		<name>Devil May Cry 3 : Dante's Awakening Special Edition</name>
+		<desc>A re-release of Devil May Cry 3, released at a budget price with several additions to the game, including:
+
+Play as Vergil
+Play as Nelo Angelo
+Bloody Palace area with 9,999 levels
+Turbo mode, for 20% faster game speed
+Extra difficulty level
+Extra boss
+Extra weapons
+Extra style
+Choice between Yellow and Gold Orb saving systems
+Demo Digest, for viewing cutscenes 
+</desc>
+		<rating>0.9</rating>
+		<releasedate>20060929T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Digimon Rumble Arena 2 (USA).chd</path>
+		<name>Digimon : Rumble Arena 2</name>
+		<desc>Bandai's follow-up to its 2002 game on PlayStation offers PS2 owners four-player action and a total of 49 characters from the first four seasons of the Digimon television series. Single-player fighting involves advancing through a series of 3D opponents and high-powered boss encounters, while multiplayer competition has up to four players competing simultaneously on the same screen. As in the original game, the battle arenas offer distinct hazards and obstacles to avoid while challenging rivals.</desc>
+		<rating>0.7</rating>
+		<releasedate>20040903T000000</releasedate>
+		<developer>Black Ship Games</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Disgaea - Hour of Darkness (USA).chd</path>
+		<name>Disgaea : Hour of Darkness</name>
+		<desc>After a two-year sleep, Prince Laharl awakens to find his father, King Krichevskoy, dead and the Netherworld in the middle of a civil war over who takes the throne. Not willing to give up his rightful place as the next king, Laharl joins with his subordinate Etna and her underlings to fight back. Disgaea is a tactical role playing game. Battle gameplay takes place on a map divided into a square grid. The player controls a squad of humanoid units and monsters, which each occupy a single square of the grid and do combat with a group of enemies. Depending on the character and attack selected, the player will be able to deal damage to a specific enemy unit or a designated region of the map. Combat ends when all enemy units or all of the player's units are destroyed. Humanoid characters may lift and throw other units across the map in order to allow allies to move further or force enemies to keep their distance. This even allows the player to capture enemies by throwing them into the base panel; these enemies then become allies, and can be used on subsequent maps. The chance of capturing an enemy in this manner depends on several factors. Failure to capture the enemy will result in the death of all characters inside the base panel, and the enemy will survive.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030827T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>Koei</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Disgaea 2 - Cursed Memories (USA).chd</path>
+		<name>Disgaea 2 : Cursed Memories</name>
+		<desc>In order to lift the curse placed upon the inhabitants of Veldime 15 years prior, the protagonist's mother attempts to summon the evil Overilord Zenon so that her son Adell can defeat him and lift the curse. Instead his daughter, Rozalin is summoned, and Adell commits to returning her home to her father, as well as to defeating her father when they find him. 
+
+The game is a turn-based strategy RPG in the vein of Final Fantasy Tactics. Classes gain abilities by gaining character levels, and can level up those abilities through use. New items and equipment can be bought or won in battle, and can be powered up up by entering and winning battles inside a given item. Characters can also "gang up" on enemies by performing combos that are activated by positioning other characters near an attacking character. This action only uses the attacking character's turn, leaving the others free to attack again. Clever coordination can have characters attacking quite a few times per turn. New characters can be created (or even reborn as other classes or just more powerful versions of the same class) by petitioning (or even bribing with special items) the Dark Assembly with "Mana" you earn by defeating enemies.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060829T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>Koei</publisher>
+		<genre>Tactical RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Budokai 3 (USA) (Greatest Hits).chd</path>
+		<name>Dragon Ball Z : Budokai 3</name>
+		<desc> All the power of DBZ is yours. A Hall of Fame cast of the greatest DBZ, DBGT and DBZ movie characters meet for first time for some of the fastest paced, highest intensity battles ever seen. New abilities include, for the first time on PlayStation 2, the ability to fly at will in a DBZ fighting game. Pummel your foes on the ground and in the air.
+
+
+In North America, an exclusive re-release package of the game (for the PlayStation "Greatest Hits" line) was released. It contained extras not included in the original black label release. This special version includes an unlockable bonus feature that lets you listen to the original Japanese voice over cast, as well an additional unlockable costume for Goku, Piccolo, and Trunks. It also uses the original Japanese cover art for the case. </desc>
+		<rating>0.9</rating>
+		<releasedate>20041116T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja).chd</path>
+		<name>Dragon Ball Z : Budokai Tenkaichi 3</name>
+		<desc>Budokai Tenkaichi 3 is a 1vs1 fighting game based on the anime/manga Dragon Ball by Akira Toriyama. It includes the apocalyptic battles and the essence of the Dragon Ball series following the main story of the popular manga.
+
+This is the third game of the Budokai Tenkaichi series and features some new things like new characters, Battle Replay to capture your fights and save them to a SD card, night and day stages for more accurate battles following the history made by Akira Toriyama and a Disc Fusion to unlock new modes with the need of previously released games Budokai Tenkaichi and Budokai Tenkaichi 2. There are also new combos and movements as well as the possibility to take control of the Giant Apes for the Saiyans.</desc>
+		<rating>0.9</rating>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Spike Co</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Dragon Quest VIII - Journey of the Cursed King (USA).chd</path>
+		<name>Dragon Quest VIII : Journey of the Cursed King</name>
+		<desc>Dragon Quest VIII: Journey of the Cursed King is the latest installment of the immensely popular Dragon Quest series and the first to be released for the PlayStation 2 computer entertainment system. For the first time ever, the colorful characters, exotic environments, and daunting dungeons of the Dragon Quest universe have made the transition to glorious 3D. In their continent-spanning adventure, players will be immersed in a unique world of seemingly limitless possibilities.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>Level-5</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dynasty Warriors 5 (USA).chd</path>
+		<name>Dynasty Warriors 5</name>
+		<desc>The series returns for yet another iteration removing majority of the features included in Empires and Xtreme Legends. The setting is again ancient China. This time there are 48 different characters to choose from in Musou mode. Majority of the 48 characters have to be unlocked and only 6 new characters have been added to the series. Each character has has/her own storyline. There are more guys to square up against on screen then any previous game in the series. The game uses the same graphics engine as the previous game also. Changed for this edition, is the bodyguards, they now do a better job of protecting you against the many enemies you encounter. The stronghold system from Dynasty Warriors 4: Empires has been carried over. This is the ability to taking over an enemies base by killing the leader of the particular base.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050329T000000</releasedate>
+		<developer>OMEGA Force</developer>
+		<publisher>Koei</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy X (USA, Canada).chd</path>
+		<name>Final Fantasy X</name>
+		<desc>Square's acclaimed role-playing series makes its PlayStation 2 debut with Final Fantasy X. Players assume the role of Tidus, an athletic teenager who witnessed the destruction of his home city by an evil entity named Sin. While his life was spared, Tidus' contact with Sin opened a portal through time. Some 1,000 years have passed since the encounter, and Tidus now finds himself in a strange land with unfamiliar faces. As Tidus struggles to find a way back home, he will meet a variety of characters, including Yuna, a girl faced with the daunting task of defeating Sin.
+ Final Fantasy X features a number of new features over previous installments. Backgrounds and characters are rendered entirely in 3D, with real-time facial expressions visible on each character. When characters are surprised, for example, they will raise their eyebrows or open their mouths in astonishment. For the first time in the series, dialogue has been recorded using professional voice actors. The U.S. version features voices in English, with optional English subtitles selectable from the menu screen.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011217T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Final Fantasy X-2 (USA, Canada).chd</path>
+		<name>Final Fantasy X-2</name>
+		<desc>The game's story follows the character Yuna from Final Fantasy X as she seeks to resolve political conflicts in the fictional world of Spira before it leads to war.
+
+The story begins as Yuna, Rikku and Paine recover Yuna's stolen Garment Grid from the Leblanc Syndicate in the first of several encounters in which they vie for spheres. The game is punctuated by a narration of Yuna addressing Tidus, as though she is recounting the events of the game to him as they occur in a style reminiscent of Tidus' own narration in Final Fantasy X. Although Yuna's quest is to find clues that may lead her to Tidus, much of the storyline of the game follows the clash of the factions that have established themselves in the time since the coming of the Eternal Calm in Final Fantasy X, and the uncovering of hidden legacies from Spira's ancient history. A significant portion of the game's events are unnecessary for the completion of the main storyline, but much of the depth of the story?including characterization and background details?are featured in the optional content, which generally follows how each part of Spira is healing in the time since the passing of Sin.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031118T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Final Fantasy XII (USA).chd</path>
+		<name>Final Fantasy XII</name>
+		<desc>The game takes place in the fictional location of Ivalice, where the empires of Archadia and Rozarria are waging an endless war. Dalmasca, a small kingdom, is caught between the warring nations. When Dalmasca becomes annexed by Archadia, its princess, Ashe, creates a resistance movement. During the struggle, she meets Vaan, a young adventurer who dreams of commanding an airship. They are quickly joined by a band of allies; together, they rally against the tyranny of the Archadian Empire.</desc>
+		<rating>0.9</rating>
+		<releasedate>20061031T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Freedom Fighters (USA).chd</path>
+		<name>Freedom Fighters</name>
+		<desc>Freedom Fighters offers a blend of strategy and action as players fight to reclaim New York City from Soviet invaders. After winning the Cold War, the Soviet Union launched a nuclear missile at Washington, D.C., killing the President. Soldiers then started flooding across Canadian and Mexican borders to establish control in each of the largest U.S. cities.
+ Cast in the role of Christopher Stone whose brother was kidnapped by the Red Army, players must solicit and then lead a group of ragtag freedom fighters to accomplish various objectives. From an underground base in the sewers, players plan out their missions using a turn-based system. Once on the streets, the action takes place in real-time as players fight using such weapons as machine guns, grenades, and Molotov Cocktails.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031001T000000</releasedate>
+		<developer>IO Interactive</developer>
+		<publisher>EA Games</publisher>
+		<genre>Shooter / TPV</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Gitaroo Man (USA).chd</path>
+		<name>Gitaroo Man</name>
+		<desc>Gitaroo-Man documents the exploits of an awkward young child named U-1, and his dog, Puma. U-1 learns that he is destined to inherit the title of Gitaroo-Man; a superhuman being, who, armed with the powerful gitaroo weapon, is tasked with protecting the universe from evil. The Gravilians, an enigmatic race who desire the power of the last remaining gitaroo, set out to capture the weapon needed to achieve their goal of universal domination -- the weapon which U-1 now wields. This bizarre plot sets the stage for a unique, twitch-based rhythm game.</desc>
+		<rating>0.8</rating>
+		<releasedate>20020219T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Music and Dancing</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./God Hand (USA).chd</path>
+		<name>God Hand</name>
+		<desc>God Hand stars a solemn transient named Gene, an unwitting benefactor of a celestial gift after losing his right arm while trying to save a girl in danger. Upon regaining conscious, Gene realizes his arm has been replaced with the revered God Hand, a limb imbued with untold powers. So begins this unusual Western-themed brawler from the development team behind Okami and the Viewtiful Joe series.
+ Players guide Gene in an epic struggle against demons that covet his arm for their own nefarious purposes. Played from a third-person perspective, God Hand involves punching, kicking, and crushing all manner of demons across a series of environments. Joining Gene in his journeys is the girl he rescued, Olivia, who helps him collect orbs to power-up the mighty God Hand.</desc>
+		<rating>0.9</rating>
+		<releasedate>20061010T000000</releasedate>
+		<developer>Clover</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./God of War (USA).chd</path>
+		<name>God of War</name>
+		<desc>God of War is an action-oriented adventure game with a strong focus on fast-paced combat. Players take control of Kratos, a mystically powerful hero in the ancient Greece of classic mythology. He can perform super-human leaps, agile dodges, and magically enhanced combo attacks, which all flow together in a stream of intense engagement. 
+
+The ultimate goal of Kratos is a conclusive confrontation with Ares -- the god of war himself -- but the hero must face a deadly succession of monsters and villains from Greek mythology as he pursues this end. The Hydra, Medusa, the Cyclops, the Minotaur, and other legendary creatures will all have their chances to destroy Kratos before he meets his final destiny.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050322T000000</releasedate>
+		<developer>SCE Santa Monica</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./God of War II (USA).chd</path>
+		<name>God of War II</name>
+		<desc>Kratos, thanks to your help, is no longer a lowly mortal but a legendary god. The former warrior of Sparta has not been the same after usurping Ares, however. His mind is filled with persistent thoughts of blood, brutal suffering, and violent conflict, as the rest of the gods on Mount Olympus embroil themselves in petty politics and duplicitous deeds. Kratos wishes to end his torment, and he makes a solemn oath to end his reign as the God of War in unprecedented fashion: by permanently altering his fate. God of War II has you twirling Kratos' twin blades for more adventurous action in Ancient Greece, as the grim hero encounters an assortment of new mythological creatures and environmental dangers on his path to redemption.</desc>
+		<rating>0.9</rating>
+		<releasedate>20070313T000000</releasedate>
+		<developer>SCE Santa Monica</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Godfather, The - The Game (USA) (Limited Edition).chd</path>
+		<name>The Godfather : The Game</name>
+		<desc>EA Games makes an offer it hopes fans of Mafioso mythology cannot refuse, in this video game translation of the award-winning 1972 Francis Ford Coppola film. Players take the role of a small-time thug, newly inducted into the Corleone family and looking to make it big. By running missions for the family in the game's rendition of 1940s New York City, players can earn the respect of the family and be promoted to positions of power and influence in the organization.
+ Welcome to the Corleone family. After a life of small-time jobs and petty thefts you've been accepted into America's most famous criminal organization. Now it's up to you to carry out orders, earn respect, rise through the ranks, and make New York City your own. Play your cards right and you could even be running everything as the next, and most powerful, Don.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060321T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gran Turismo 4 (USA) (v2.00).chd</path>
+		<name>Gran Turismo 4</name>
+		<desc>GT4 continues in its predecessors' footsteps by offering an extremely large list of cars; the PAL version features 721 cars from 80 manufacturers. 
+
+Players now accumulate points by winning races in the normal first-person driving mode, called A-Spec mode. Each race event can yield up to a maximum of 200 A-Spec points. Generally, a win using a car with less of an advantage over the AI opponents is worth more points. Points can only be won once, so to win further points from a previously-won event, it must be re-won using a car with less of an advantage over the AI. There are also the 34 Missions which can yield 250 points each. Despite this, A-Spec points are experience points, not money.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050222T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Grand Theft Auto - San Andreas (USA) (v3.00).chd</path>
+		<name>Grand Theft Auto : San Andreas</name>
+		<desc>Grand Theft Auto: San Andreas takes place within the state San Andreas, which is based on sections of California and Nevada. It comprises three major fictional cities: Los Santos corresponds to real-life Los Angeles; San Fierro corresponds to real-life San Francisco; and Las Venturas and the surrounding desert correspond to real-life Las Vegas and the Nevada and Arizona desert.
+
+The game features set co-op scenarios in a free roam mode as well as a cooperative "rampage" gameplay mode.</desc>
+		<rating>1</rating>
+		<releasedate>20041026T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Grand Theft Auto - Vice City (USA) (v4.00).chd</path>
+		<name>Grand Theft Auto : Vice City</name>
+		<desc>The player takes on the role of Tommy Vercetti, a man who was released from prison in 1986 after serving 15 years for killing eleven people. The leader of the organization for whom he used to work, Sonny Forelli, fears that Tommy's presence in Liberty City will heighten tensions and bring unwanted attention upon his organization's criminal activities. To prevent this, Sonny ostensibly "promotes" Tommy and sends him to Vice City to act as their buyer for a series of cocaine deals.[7] During Tommy's first meeting with the drug dealers, an ambush by an unknown party results in the death of Tommy's bodyguards, Harry and Lee, and the cocaine dealer. There is another survivor, the pilot of the dealer's helicopter, who flies off and escapes. Tommy narrowly escapes with his life, but he loses both the Forelli's money and the cocaine.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021027T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Grand Theft Auto III (USA).chd</path>
+		<name>Grand Theft Auto III</name>
+		<desc>The player character has robbed the Liberty City Bank with his girlfriend, Catalina, and a male accomplice. While running from the scene, Catalina turns to him and utters, "Sorry, babe, I'm an ambitious girl and you ... you're just small-time". She shoots him and leaves him to die in an alley; the accomplice is also seen lying nearby. It soon becomes apparent that the player character has survived but has been arrested and subsequently found guilty and sentenced to jail. While he is being transferred, an attack on the police convoy aimed at kidnapping an unrelated prisoner sets him free.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011022T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Adventure / RealTime 3D</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./GrimGrimoire (USA) (En,Ja).chd</path>
+		<name>GriMgRiMoiRe</name>
+		<desc>GrimGrimoire is the tale of a young magician named Lillet Blan. After getting into a prestigious magic school, Blan wakes up on the fifth day to find all the other students and faculty have disappeared. Blan realizes she is continuously living out her first day of school and must use her memories to solve the mystery and locate all the missing people.
+ In a world where science is replaced by magic, youngsters attend wizardry schools to learn the art of magic, and the most prestigious of them all is the Tower of Silver Star. Only the most gifted, attend this school to learn from Dummel Drusk, the legendary wizard who once defeated the evil overlord that occupied the Tower.
+ The game story opens with Lillet Blan, a student at the Tower of Silver Star is notified about the horrible event that occurred during her 5 days away. She is told that everybody including students and professers were all killed. Now Lillet Blan must investigate the magical tower to uncover what occured during the 5 days she was gone.</desc>
+		<rating>0.7</rating>
+		<releasedate>20070626T000000</releasedate>
+		<developer>Vanillaware</developer>
+		<publisher>Koei</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Harvest Moon - A Wonderful Life - Special Edition (USA).chd</path>
+		<name>Harvest Moon : A Wonderful Life, Special Edition</name>
+		<desc>Harvest Moon: A Wonderful Life expands on the farm simulation aspects of its predecessors by having players develop a "life" through marriage and raising a family. Farming in this GameCube version is further enhanced by having more animals to care for, more crops to harvest, and an option for players to create hybrid vegetables by combining the seeds of two different types. As in earlier titles in Natsume's Harvest Moon series, players are not confined to a rigid storyline or plot while advancing through the game. Players are free to do whatever they want in the effort to become successful in both business and in life.
+
+ This PS2 "Special Edition" of A Wonderful Life adds to the GameCube original by allowing players to earn the chance to play as either a boy or a girl, and by providing more potential spouses for courtship. It also allows players to continue to work and develop their farms, even after they've completed the main campaign. New features for the PS2 version include up to four wives to marry, to have a son or a daughter with a mini career path, new farming equipment such as the fertilizer machine, and a free play mode to continue playing when all the chapters have been completed.
+ </desc>
+		<rating>0.6</rating>
+		<releasedate>20051028T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>505 Games</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Hitman - Blood Money (USA).chd</path>
+		<name>Hitman : Blood Money</name>
+		<desc>Agent 47 the assassin returns in the 4th installment of the Hitman series. This time he goes on a trip around America, undertaking missions in major cities such as Las Vegas, New Orleans, Los Angeles and other exotic locations. This time, he better watch his back, as his long-time employer, the International Contract Agency, is threatened by a mysterious rival.
+ On the run from rival assassins, Agent 47 hops a plane to take care of business stateside in Hitman: Blood Money. Players will guide Agent 47 through a number of locales, including New Orleans, Los Angeles, and Las Vegas as he performs hits. It's up to the player to determine the manner in which a hit is executed, but the "rookie training" mode can show amateur assassins how to help targets have "accidents," by pushing the victim over a ledge or pinning him underneath something heavy.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060330T000000</releasedate>
+		<developer>IO Interactive</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Shooter / TPV</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Hobbit, The - The Prelude to the Lord of the Rings (USA).chd</path>
+		<name>The Hobbit</name>
+		<desc>Set in the mythical world of Middle-earth, The Hobbit is an introductory tale to the Lord of the Rings trilogy. You control Bilbo Baggins as he travels from his peaceful Hobbit hole in Hobbiton into the dark and harrowing Mirkwood forest and finally to the Lonely Mountain, the home of Smaug the dragon. During your journey, you will acquire items, knowledge, and courage to face the most terrifying of enemies. Come face-to-face with elves, trolls, orcs, spiders, and wolves. It's up to you to lead the quest that started it all.</desc>
+		<rating>0.8</rating>
+		<releasedate>20031111T000000</releasedate>
+		<developer>Inevitable Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./I-Ninja (USA).chd</path>
+		<name>I-Ninja</name>
+		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor.
+ I Ninja is a 3D platform title starring an original character created by British developer Argonaut Software. Players control a spirited young ninja as they make their way through a diverse selection of indoor and outdoor locales. The title character is garbed in a blue suit and matching hooded mask, so that only his eyes and his expressive brow are visible to players.</desc>
+		<rating>0.8</rating>
+		<releasedate>20031118T000000</releasedate>
+		<developer>Argonaut Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ico (USA).chd</path>
+		<name>ICO</name>
+		<desc>A young boy in a magical world has been born with a strange deformity: large horns that jut out of both sides of his head. The people of his village, fearful of retribution from above, feel they have no choice but to sacrifice this mutant child to appease their gods. To that end, they have taken this boy, named Ico, to a massive, supposedly deserted castle and left him in a giant urn. But when the urn breaks, spilling Ico into the bowels of the fortress, he will soon find his adventure is just beginning. Along the way he'll meet a mysterious princess who has been held captive in the castle for untold years. Although they cannot communicate through speech, they soon forge an unspoken bond, and it is clear that if either of them wants to make it out of the castle alive, their destinies must remain intertwined.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010924T000000</releasedate>
+		<developer>SCE Japan</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Incredible Hulk, The - Ultimate Destruction (USA).chd</path>
+		<name>The Incredible Hulk : Ultimate Destruction</name>
+		<desc>The player controls the Hulk in an open world environment in which the player can visit most locations and interact with the environment while not engaged in missions. The game's bosses include Devil Hulk and Mercy, and the game's main villain is the Abomination.
+
+Boasting "Unstoppable Movement" means Hulk can run across walls and other vertical surfaces, climb any wall by digging his fingers into concrete, leap huge heights and distances all under the player's control. Hulk's combat abilities also reflect this increased power; cars and buses are simply smashed out of the way while fully charged attacks will toss vehicles, enemies and unlucky pedestrians into the air. At his most powerful, the Hulk can perform one of five different ultra-powerful Devastator attacks including the Critical Atomic Slam and the Critical Thunderclap. These attacks will clear enemies out for a multi-block radius, flatten entire buildings, and cause massive damage to enemies.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050823T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1).chd</path>
+		<name>Jak and Daxter: The Precursor Legacy</name>
+		<desc>While Jak is a handsome young hero with big blue eyes and bushy blond hair, his companion Daxter has been transformed into a small weasel-like creature by a strange dark curse. The two heroes set out to seek the forgotten secrets of the Precursors, an ancient race that inhabited the land many ages ago. Only by seeking the wisdom of the ancients can they hope to change Daxter back to his natural form.
+
+The game is designed to provide a large 3D world populated with towns, ruins, and diverse wilderness areas and it does not follow any strict level progression. The storyline is open-ended enough to allow Jak and Daxter to find their own way through the adventure, searching the land, accepting quests, and taking on powerful boss characters in the order the player chooses.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011204T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01).chd</path>
+		<name>Jak II</name>
+		<desc>The sequel to 2001's best-selling Jak and Daxter once again follows the exploits of the elfin hero Jak and his churlish sidekick, a weasel-like creature named Daxter. Using the same 60 frames per second graphic engine as its predecessor, albeit with a number of refinements for more dramatic visual effects, Jak II takes place in a darker, more futuristic world than the original game. The titular hero, now older and wiser, has a number of new moves and abilities this time around, all of which are available right from the start. As players make their way through this mystical world, acquiring power-ups and interacting with an assortment of characters, they will unravel over an hour of cinematic cut-scenes to further the story.
+
+
+ Jak's new skills have him zipping around the world atop a hoverboard, using multiple weapons such as a laser rifle to neutralize foes, and performing a number of acrobatics to escape from harm's way.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031014T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Katamari Damacy (USA).chd</path>
+		<name>Katamari Damacy</name>
+		<desc>The King of All Cosmos accidentally destroyed the stars and (having recovered) wants the prince to rebuild them. Unfortunately the prince stands a little less than half a foot tall, so recreating the stars will require some effort. Enter the Katamari, a sphere the prince can push around our world to “roll up” items increasing the Katamari's size until it's suitable for the King.
+
+Taking place in stylized versions of Japanese houses, cities, and environs, the prince pushes the Katamari around collecting items which adhere to it. At first, the prince can only pick up smaller items, but as the Katamari grows, the more it can collect. Push pins and paper clips cling to the Katamari increasing its size so it can roll over obstacles and pick up bigger items. Over many levels, the Katamari can eventually pick up people, cars, and other bigger items.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040922T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Kingdom Hearts (USA).chd</path>
+		<name>Kingdom Hearts</name>
+		<desc>Created with the support of two multimedia entertainment powerhouses, Kingdom Hearts provides a new adventure with some familiar faces. This 3D action-oriented role-playing title from developers at Square features popular Disney characters like Donald Duck and Goofy adventuring alongside more conventional Final Fantasy-styled heroes.
+ Tetsuya Nomura, who designed several of the characters in earlier Final Fantasy titles, supervised this game's development. In addition to the well-established Donald and Goofy, Kingdom Hearts introduces several new characters to the Disney universe.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020916T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Kingdom Hearts II - Final Mix (T-En).chd</path>
+		<name>Kingdom Hearts 2 Final Mix+</name>
+		<desc>Kingdom Hearts II: Final Mix+ is an enhanced version of the original Kingdom Hearts II released only in Japan. Like the Final Mix version of the first game in the series this game features brand new content not seen in the original. New items, enemies, and abilities are added as well as a secret dungeon that ends with a series of rematches against the members of Organization XIII. Once again an extended secret ending and related hidden boss have also been added.
+
+Also bundled with the game was a full remake of the GBA game Kingdom Hearts: Chain of Memories made in the Kingdom Hearts II engine and featuring new content, remixed music, and full voice acting.</desc>
+		<rating>0.9</rating>
+		<releasedate>20070329T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Klonoa 2 - Lunatea's Veil (USA).chd</path>
+		<name>Klonoa 2 : Lunatea's Veil</name>
+		<desc>Fans of the original Klonoa for the PS can set forth in a new adventure on a new system with this release of Klonoa 2: Lunatea's Veil. The endearing long-eared feline hero and the style of play introduced in his first adventure have been updated to make use of the enhanced processing power and graphical capabilities of Sony's 128-bit PlayStation 2 console. Billed as a "3D dramatic action" game, this second release follows the lead of the original by offering action-oriented gameplay accented with cut-scenes and interludes that add atmosphere and advance the storyline.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010731T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Lara Croft Tomb Raider - Anniversary (USA).chd</path>
+		<name>Lara Croft Tomb Raider : Anniversary</name>
+		<desc>Lara Croft Tomb Raider: Anniversary is a remake of the original Tomb Raider. The remake has the same basic storyline, locations, and core gameplay; however, it has a technically more advanced graphics engine and adds several new features that were introduced in Lara Croft Tomb Raider: Legend. Lara has many new moves, such as swinging on ropes, bullet time when an animal rushes towards her, and the addition of a grappling hook in her inventory (which resembles the one from the original game). Jumping is also a lot easier, as the heroine automatically grabs the ledges without requiring pixel-precise timing. There are also completely new moves, where Lara balances and jumps on small sticks.
+
+The cutscenes are identical, but rendered in real-time using the new engine. Some are also action-based, like in the previous games, requiring quick reflexes to keep the action going. The environments and puzzles have been somewhat changed to fit the new gameplay, and the voice recording was also redone.</desc>
+		<rating>0.9</rating>
+		<releasedate>20070605T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./LEGO Batman - The Videogame (USA).chd</path>
+		<name>LEGO Batman : The Videogame</name>
+		<desc>Continuing the tradition of adapting known franchises such as Star Wars and Indiana Jones with visuals based on LEGO, this game takes on the Batman universe. The basic concept is the same, with characters and objects built up using LEGO blocks, but here shown against surroundings drawn in a regular fashion. Most of the environments are side-scrolling with a fixed camera perspective, but in 3D with quite some depth. 
+ The Dynamic Duo hits the bricks in LEGO Batman: The Videogame. In the game's main campaign, players take control of Batman and Robin for familiar bust-and-build action and puzzle-solving adventure through more than a dozen levels of Gotham City -- re-created completely from Lego brand toy building blocks, of course. </desc>
+		<rating>0.9</rating>
+		<releasedate>20080923T000000</releasedate>
+		<developer>Traveller's Tales</developer>
+		<publisher>Warner Bros. Games</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./LEGO Star Wars - The Video Game (USA) (v2.00).chd</path>
+		<name>LEGO Star Wars : The Video Game</name>
+		<desc>This curious blend of big-name brands tells the earlier parts of the Star Wars story in a version of films' universe that's been built from scratch with Lego parts and people. The game highlights the action of Episodes I through III (the more recent, prequel films); players take control of thoroughly Lego versions of heroes such as Qui-Gon Jinn, Obi-Wan Kenobi, Princess Amidala, Anakin Skywalker, and others, to battle through action-oriented levels based on the films' settings, but constructed entirely with Lego blocks.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050402T000000</releasedate>
+		<developer>Traveller's Tales</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./LEGO Star Wars II - The Original Trilogy (USA).chd</path>
+		<name>LEGO Star Wars II : The Original Trilogy</name>
+		<desc>The surprise hit of 2005 returns for more brick-blasting battles and sci-fi spoofing in LEGO Star Wars II: The Original Trilogy. As the title suggests, the storyline focuses on the first three films in the Star Wars saga. Players will choose from a variety of LEGOized characters as they attempt to end the Galactic Empire's tyrannical reign. The lighthearted action is still designed for players of all ages and abilities, but there is now more to see and do. New character-specific special moves are available, from Leia's head-knocking slaps to Obi-Wan's helmet-spinning use of the Force to confuse his attackers.
+
+ As players progress through familiar movie scenes in the story mode, they can unlock more than 50 characters and even mix-and-match individual parts and accessories to create custom hybrids for use in the "free play" mode. Also new is the ability to build vehicles such as landspeeders, AT-STs, and speeder bikes, or to ride creatures like tauntauns and banthas. The original's cooperative play option returns with a revamped camera and more team-oriented challenges to overcome. As a special bonus, owners of the first game can unlock 54 additional characters for free play, expanding the roster to include Darth Maul and other fan favorites.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060912T000000</releasedate>
+		<developer>Traveller's Tales</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Lord of the Rings, The - The Fellowship of the Ring (USA).chd</path>
+		<name>The Lord of the Rings : The Fellowship of the Ring</name>
+		<desc>Based on the legendary novels by the late JRR Tolkien, you take control of the Fellowship as they follow a path of evil to the steps of Mount Doom, in order to cast the One ring of Sauron back into the depths of the volcano, in turn destroying the evil that lies within it. This first in a trilogy follows Frodo and the fellowship as they begin their journey to Mount Doom, only to find that what lies ahead may be too much to handle.
+
+Unlike the movie trilogy, this adaption of the tale includes characters not seen on the big screen, including Tom Bombadil and others, as well as including many of the songs written by Tolkien as puzzles.</desc>
+		<rating>0.7</rating>
+		<releasedate>20021015T000000</releasedate>
+		<developer>Surreal Software</developer>
+		<publisher>Black Label Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Lord of the Rings, The - The Return of the King (USA).chd</path>
+		<name>The Lord of the Rings : The Return of the King</name>
+		<desc>Return to Middle-earth in a game based on the epic final chapter of the The Lord of the Rings movie trilogy. Developed using the same digital assets as the films, The Return of the King recreates in stunning detail the final events of the War of the Ring. Become the heroes who determine the fate of Middle-earth as you traverse the haunted Paths of the Dead, defend Minas Tirith, and even play co-op multiplayer with a friend as you march against the impenetrable Black Gates of Mordor. The fate of Middle-earth is in your hands.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031105T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Games</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Lord of the Rings, The - The Third Age (USA).chd</path>
+		<name>The Lord of the Rings : The Third Age</name>
+		<desc>In The Lord of the Rings: The Third Age, you can travel in the wake of the Fellowship while exploring your own path and periodically intersecting the major events of the film trilogy. Through both familiar and new locations, you must fight to save or destroy Middle-earth in an epic adventure. Encounter the demonic Balrog in the Mines of Moria, defend the fallen city of Osgiliath, or try to destroy Helm's Deep. These choices and many more will confront you as you align yourself with the people of Middle-earth or undertake missions on behalf of Sauron.</desc>
+		<rating>0.8</rating>
+		<releasedate>20041102T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Games</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Lord of the Rings, The - The Two Towers (USA).chd</path>
+		<name>The Lord of the Rings : The Two Towers</name>
+		<desc>The second chapter in the epic story of Middle-earth pits you against Sauron and the evil forces of Mordor. In The Lord of the Rings: The Two Towers, you'll battle an army of 10,000 Uruk-Hai on the walls of Helm's Deep, hordes of Orcs on the plains of Rohan, and even the monstrous Cave Troll in Balin's Tomb. Guide Aragorn, Gimli, or Legolas through 13 interactive environments, using each character's unique moves, skills, and weaponry to complete your quest.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021021T000000</releasedate>
+		<developer>Stormfront Studios</developer>
+		<publisher>EA Games</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Marvel vs. Capcom 2 - New Age of Heroes (USA).chd</path>
+		<name>Marvel vs. Capcom 2</name>
+		<desc>Capcom's three-on-three arcade game, featuring popular characters from previous action, shooting, and fighting titles, comes to the PS2 with this release of Marvel vs. Capcom 2. Over 50 characters are available to fight as or against, two-dozen of which are initially playable. Each combatant offers a variety of aerial maneuvers, special attacks, and projectile blasts as players attempt to defeat their opponent's team.
+ Rather than having all three characters fight on the screen at once, players swap fighters in and out of the match at any time, even for a single attack on an opponent. The remaining two characters rest on the sidelines until called upon to assist. In addition to a health bar, each fighter has a separate meter used for Hyper Combo attacks that can be powered-up to five increasingly destructive levels.
+ Besides directly switching characters during a fight, players can press one of two assist buttons to have one of their teammates perform a pre-selected attack or defensive maneuver. If an opponent has unleashed an aerial attack, for example, pressing the assist button might have the second or third character enter the screen to perform an anti-air maneuver, thus leaving the primary fighter free from harm.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021118T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Midnight Club 3 - DUB Edition (USA) (v2.00).chd</path>
+		<name>Midnight Club 3 : DUB Edition</name>
+		<desc>Midnight Club 3: DUB Edition is a racing game, developed by Rockstar San Diego and published by Rockstar Games, and is the third game in the Midnight Club series. Like previous installments in the series, the game is an arcade-style racer and focuses on wild, high-speed racing, rather than realistic physics and driving characteristics. The name derived from a partnership between Rockstar and DUB Magazine, which features heavily in the game in the form of DUB-sponsored races and DUB-customized vehicles as prizes.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050411T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Monster Rancher 4 (USA).chd</path>
+		<name>Monster Rancher 4</name>
+		<desc>Raise monsters to explore and battle in this PS2 monster raising sim from Tecmo. This game improves upon previous installments by allowing more than one monster to be raised at once, interaction with the main character and the monsters, improved explorations, a customizable ranch, tag-team battles, improved 2P mode, a re-vamped battle system, and more detailed monsters. This game also features the longest most involved storyline of any Monster Rancher game to date.
+
+Your goal is to raise monsters to win in-game tournaments, explore for items, and improve your ranch. You can also test your raising skills by battling your monsters against a friend in 2P mode.
+
+The game still uses the innovative system of having a player insert music CDs, game discs, or DVDs into the PS2 to be read and used in making monsters. If you have a good sized collection of music, games, or movies, you can have access to a large variety of monsters very fast.</desc>
+		<rating>0.8</rating>
+		<releasedate>20031113T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./NBA Street Vol. 2 (USA).chd</path>
+		<name>NBA Street Vol. 2</name>
+		<desc>Basketball returns to the streets in NBA Street Vol. 2, featuring more players, electrifying moves, and online multiplayer battles. Defeat the best players in the game today and even bring legends such as Dr. J, Magic, Bird, Wilt, and Moses out of retirement for some on-court brawling. NBA Street Vol. 2 features all-new spectacular dunks, dribbles, and passes that'll take show-stopping Gamebreakers to the next level. You can take your game against computer opponents or friends, or play with up to three other players online. Are you good enough to rule the streets?</desc>
+		<rating>0.9</rating>
+		<releasedate>20030429T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Sports BIG</publisher>
+		<genre>Sports / Basketball</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Need for Speed - Most Wanted - Black Edition (USA).chd</path>
+		<name>Need for Speed : Most Wanted</name>
+		<desc>The new speedster in EA's successful series combines the tuner customization of Need for Speed Underground with an expanded take on the police chases of the Need for Speed: Hot Pursuit series. The game will feature a Rap Sheet option that works hand in hand with a player's street reputation as they move up from the "Black List" to the A-List. Users will also be able to go head-to-head with their opponents while simultaneously trying to avoid more than six different police cars at once through a dynamically changing open-ended world. Get your car peaked for outrunning the cops by customizing your muscle cars, supercars, tuners, and sports cars.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Odin Sphere (USA).chd</path>
+		<name>Odin Sphere</name>
+		<desc>The nations of Erion had always held an uneasy peace, as the various kings and queens watched each other for any signs of weakness. When the country of Valentine is obliterated by the power of an ancient artifact, it sparks a bloody war between the fairies of Ringford and the warriors of Ragnanival. Little do they know that they are acting out an almost-forgotten prophecy: one that, if fulfilled, will lead to the destruction of the entire world. Take control of the warrior princess Gwendolyn, daughter of Odin, and follow the threads of an intricately woven story as you uncover the truth behind the prophecy - and how to bring it to an end. Five playable characters in all; each one's fate is intertwined with the others'. A robust cooking and alchemy system that can be used to create powerful attack and recovery items.</desc>
+		<rating>0.9</rating>
+		<releasedate>20070522T000000</releasedate>
+		<developer>Vanillaware</developer>
+		<publisher>Atlus</publisher>
+		<genre>Action RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Onimusha - Warlords (USA).chd</path>
+		<name>Onimusha : Warlords</name>
+		<desc>Onimusha: Warlords is set in 16th century Japan during the period of the civil war dominated by Nobunaga Oda. You play Samanosuke Akechi, who dies during an attempt to stop the kidnapping of young princess Yuki, the sister to Yoshitatsu Saito. However, Akechi is given another chance at life, and is handed the gauntlet of the Ogres.
+
+With this new power Samanosuke must fight through the monster-filled halls of Inabayama Castle. As monsters are defeated, their souls are absorbed by the gauntlet, increasing its power. Some souls restore Samanosuke's health and magic, while others can be used to power up weapons, armor, and items. Powering up weapons will increase their damage and the strength of their associated magic, and is also required to pass by special locks throughout the castle. Sometimes the player will take control of Kaede who can reach some locations that are beyond Samanosuke as well as pick locks and throw kunai, but she can not absorb souls or open any lock intended for the wearer of the Ogre gauntlet.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010313T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ookami (USA).chd</path>
+		<name>Okami</name>
+		<desc> The game is set in a Nippon (Japan) based on Japanese folklore, and begins with a flashback to events 100 years prior to the game's present; the narrator describes how Shiranui, a pure white wolf, and Nagi, a swordsman, together fought the eight-headed demon Orochi to save Kamiki Village and the maiden Nami, Nagi's beloved. Shiranui and Nagi are unable to defeat Orochi, but manage to seal the demon away.
+ In the game's present, Susano, a descendant of Nagi and self-proclaimed greatest warrior, breaks Orochi's seal due to the fact that he does not believe in the legend and wants to prove it false; Orochi escapes and curses the lands, sapping the life from every living being. Sakuya, the wood sprite and guardian of Kamiki Village, calls forth Amaterasu, the sun goddess, known to the villagers as the reincarnation of the white wolf Shiranui, and pleads for her to remove the curse that covers the land. Accompanied by the artist Issun (an inch-high creature known as a Poncle), Amaterasu is able to restore the land to its former beauty.</desc>
+		<rating>1</rating>
+		<releasedate>20060919T000000</releasedate>
+		<developer>Clover</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Prince of Persia - The Sands of Time (USA) (En,Fr,Es).chd</path>
+		<name>Prince of Persia : The Sands of Time</name>
+		<desc>Embark on a journey of scorched sands and ancient legends. A young prince, drawn to the dark powers of a magic dagger, unleashes a deadly evil upon a beautiful kingdom. Guide the Prince on his quest to reverse the curse by using the Sands of Time, a power which allows you to erase the past, see into the future and slow down the present. Perform gravity-defying acrobatics and swashbuckling attacks in a staggering array of landscapes and kingdoms. Restore peace to the land and fulfill your destiny.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031106T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Prince of Persia - The Two Thrones (USA) (En,Fr,Es).chd</path>
+		<name>Prince of Persia : The Two Thrones</name>
+		<desc>The Prince of Persia returns to his kingdom to find it decimated by war and turned against him in Prince of Persia: The Two Thrones. You can play as the time-bending prince or his evil alter-ego as he tries to return to the throne that is rightfully his. Now there are two distinct characters, each with their own abilities and backgrounds, as you explore the urban setting of Babylon. Prince of Persia: The Two Thrones adds new Sands of Time abilities and an all-new setting for the third chapter in the Prince of Persia story.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051201T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Prince of Persia - Warrior Within (USA) (En,Fr,Es).chd</path>
+		<name>Prince of Persia : Warrior Within</name>
+		<desc>The Old Man said to the Prince, "Your fate has been written. You will die." Enter the dark underworld of Prince of Persia: Warrior Within, the sword-slashing sequel to the critically acclaimed Prince of Persia: The Sands of Time. Hunted by Dahaka, an immortal incarnation of Fate seeking divine retribution, the Prince embarks upon a path of both carnage and mystery to defy his preordained death. His journey leads to the infernal core of a cursed island stronghold harboring mankind's greatest fears. Only through grim resolve, bitter defiance and the mastery of deadly new combat arts can the Prince rise to a new level of warriorship ? and emerge from this ultimate trial with his life.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041130T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Psychonauts (USA).chd</path>
+		<name>Psychonauts</name>
+		<desc>Psychonauts is a 3D platform game starring a gifted young psychic named Raz as he attends school to become a member of a top-secret intelligence organization. As part of his academic "studies," Raz must enter classmates' minds to solve their problems, ranging from childhood trauma to borderline personality disorders. Accomplishing these feats involves using the character's unusual talents to manipulate the strange worlds created by the subject's mind.
+ Raz literally walks through an individual's fears, delusions, and rage to solve various object-oriented puzzles and to eliminate potential threats. The human brain guards itself against foreigners poking around the subconscious and will manufacture enemies and barriers to stop Raz before he can resolve whatever psychological ailment is plaguing the host. Among the special powers Raz can call upon are invisibility, confusion, mind control, psychic blasts, and telekinesis.
+</desc>
+		<rating>0.9</rating>
+		<releasedate>20060210T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>Double Fine Productions</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ratchet &amp; Clank (USA) (En,Fr,De,Es,It).chd</path>
+		<name>Ratchet &amp; Clank</name>
+		<desc>Ratchet &amp; Clank  involves the two protagonists Ratchet, a furry alien creature, and Clank, a nerdy little robot, going on a quest to find Captain Qwark and ultimately to help save the galaxy.
+Firstly each of the game's levels are huge sweeping vistas with extremely detailed buildings which are visible at all times. This means that a building on the horizon is not just a backdrop; in all likelihood Ratchet will be exploring it in a few moments time. Secondly, the game includes a number of sub-games, such as a space fight sequence and a number of turret shoot-outs which are akin to Missile Command in the first person.
+The game has over twenty levels and includes as many real-time cut-scenes which tell the story. The story is non-linear, requiring the player to return to previous levels to complete objectives and to choose between multiple paths forward. There is also a respectable array of weapons, gadgets, and accessories to find or buy as the game progresses.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021104T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ratchet &amp; Clank - Going Commando (USA) (v2.00).chd</path>
+		<name>Ratchet &amp; Clank : Going Commando</name>
+		<desc>From the creators of Ratchet &amp; Clank comes the next installment of this sci-fi action adventure series. Ratchet &amp; Clank: Going Commando features more than 50 imaginative weapons and gadgets. The more things you blow up, the stronger Ratchet gets and the more advanced the weapons you'll have. Participate in all-new side challenges; destroy hordes of enemies in gladiator arenas, upgrade your ship and pick off enemies in space combat, and leave competitors to eat your dust in hi-speed challenge. Are you up for it?</desc>
+		<rating>0.9</rating>
+		<releasedate>20031111T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).chd</path>
+		<name>Ratchet &amp; Clank : Up Your Arsenal</name>
+		<desc>In Ratchet &amp; Clank: Up Your Arsenal, Ratchet and Clank once again team up for an all-new adventure that combines diverse gameplay with elements of action, exploration, adventure, puzzle-solving, strategy, and role-playing into one experience. Together with the Q-Force, Ratchet and Clank set off to uncover the schemes of the sinister Dr. Nefarious and keep the galaxy safe for organic life. As one of three characters, you can now wield new weapons and gadgets, gain access to an array of vehicles, and master all-new abilities. The game also features both single-player and multiplayer (offline and online) gameplay.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Rez (USA) (En,Fr,De,Es,It).chd</path>
+		<name>Rez</name>
+		<desc>Rez is a fast-action shooter that takes you deep into the world’s computer network. The “Project K” Network has recently been upgraded to handle the rapid expansion of the information age and the core, known as “Eden,” holds the most advanced artificial intelligence the world has ever seen. Unfortunately, Eden cannot handle the ability to create her own thoughts and buckles under the pressure in an existential breakdown. She is lost deep inside the system, and you’re the only one that can bring her back online, saving the world from utter chaos.
+
+You must blast complex viruses, unlock passwords, and destroy firewall bosses as you search for Eden. Each stage is in a constant state of flux dependent on your shooting techniques, which ultimately control the music and colors of your environment. The deeper you get into the dreamlike cyber world of Rez, your form will evolve or devolve depending on your progress.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011122T000000</releasedate>
+		<developer>UGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rogue Galaxy (USA).chd</path>
+		<name>Rogue Galaxy</name>
+		<desc>The development team behind the PlayStation 2's Dark Cloud series returns to the genre with Rogue Galaxy, an original action role-playing game offering an estimated 100 hours of content.
+ Rogue Galaxy is a science fiction role-playing video game developed by Level-5 and published by Sony Computer Entertainment for the PlayStation 2. The game was first released in Japan on December 8, 2005, and later in North America on January 30, 2007. A European release was initially expected in 2006 but after a series of postponements it was released in most European countries on September 5, 2007 and Australia on September 30, 2007. A Director's Cut of the game was also released in Japan on March 15, 2007. This version includes all the added features and improvements of the North American and European localizations.</desc>
+		<rating>0.9</rating>
+		<releasedate>20070130T000000</releasedate>
+		<developer>Level 5</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Action RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shadow Hearts (USA).chd</path>
+		<name>Shadow Hearts</name>
+		<desc>Shadow Hearts is a role-playing adventure of romance and the occult, set in the early 1900s and driven by a turn-based combat system. Players take the role of Yuri Hyuga, an "Harmonixer" who can take the forms of other creatures and beasts. Following a soft voice in his head, the hero finds himself rescuing Alice Elliot, the daughter of a famous exorcist. Alice was nearly taken prisoner on a train during a journey to China. As her kidnapping is foiled, the real story begins.
+
+Players travel through China and Europe, searching for the mysterious man who tried to capture Alice and unraveling the villain's devious master plan. Other good-hearted characters may join the hero on this quest, each adding distinct personality and new abilities to the mix. The game features more than 100 different monsters to battle, over 200 magical items to find and use, and 20 different creatures types that the hero, Yuri, can learn to become.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020329T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shadow Hearts - Covenant (USA) (Disc 1).chd</path>
+		<name>Shadow Hearts : Covenant</name>
+		<desc>The year is 1915. War has raised its ugly head to greet the nations of Europe. A year and a half after the events described in Shadow Hearts, the French town of Domremy resists German invasion, rumored to be protected by a demon. The German army sends Lieutenant Karin Koenig along with a man named Nicolas, allegedly an inquisitor from the Vatican, whose task is to exorcise the demon. When the two arrive in Domremy, events take an unexpected turn. Karin meets the young harmonixer Yuri Hyuga, who is afflicted with a curse that gradually saps the life out of him. Yuri travels across Europe and through Russia to the Far East, trying to find a cure before it is too late, and stop a secret society from dominating the world by political and magical means.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040927T000000</releasedate>
+		<developer>Nautilus</developer>
+		<publisher>Midway</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shadow of the Colossus (USA).chd</path>
+		<name>Shadow of the Colossus</name>
+		<desc>End-level bosses are standard fare in video games, but the bosses are the levels in this unusual adventure. Developed by the studio that created the PS2's critically acclaimed Ico, Shadow of the Colossus is another fantasy-themed puzzle adventure that's light on dialog and heavy on beautifully expressive environments.
+ Players take the role of a young knight who sets out to rescue his sleeping-beauty princess from a magic-induced state of suspended animation. To do so, he'll need to defeat the 16 Colossi -- landscape-sized enemies so enormous that they can only be conquered by exploring them, platform-game style, to discover their weaknesses. Against some Colossi, the hero may ride his faithful steed alongside the monster, galloping at full speed just to keep up with its mile-long strides. Other Colossi require the player to actually climb aboard, and crawl, run, and leap across their massive forms to find the hidden vulnerability that can be used to bring them down.
+</desc>
+		<rating>0.9</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shin Megami Tensei - Persona 3 FES (USA).chd</path>
+		<name>Shin Megami Tensei : Persona 3 FES</name>
+		<desc>Lead a group of high school students with a dangerous extracurricular activity: exploring the mysterious tower Tartarus and fighting the sinister Shadows during the Dark Hour, a frozen span of time imperceptible to all but a select few. However, the end of their quest is no longer the end of the story--witness for the first time the aftermath of the final battle and the students' struggle to find meaning in their new lives.</desc>
+		<rating>0.9</rating>
+		<releasedate>20080422T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Koei</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shin Megami Tensei - Persona 4 (USA).chd</path>
+		<name>Shin Megami Tensei : Persona 4</name>
+		<desc>Shortly after an urban youth begins a year-long stay in the countryside town of Inaba, the rural town's peace is shattered by a horrific murder that leaves no clues or suspects. As the lone incident develops into a series of bizarre crimes, he discovers that only he and his friends have the power to solve the baffling case, bring those responsible to justice, and restore harmony to his new home.</desc>
+		<rating>1</rating>
+		<releasedate>20081209T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shinobi (USA).chd</path>
+		<name>Shinobi</name>
+		<desc>The legendary ninja returns, haunted by the dead and hindered by the very rage that spurs him on. In Shinobi, you'll play the role of Hotsuma, leader of the Oboro clan, as he battles through the demon-filled streets of a postapocalyptic Tokyo in search of answers. You'll have all the skills of a ninja, including sword and shuriken mastery, Ninja Magic, and the ability to run along walls and scale buildings. With stealth-dash technique, you can chain your attacks together to consecutively destroy hordes of enemies.</desc>
+		<rating>0.7</rating>
+		<releasedate>20021110T000000</releasedate>
+		<developer>Overworks</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).chd</path>
+		<name>Silent Hill 2</name>
+		<desc>Silent Hill 2 is not a direct sequel to the events and characters of the first Silent Hill game. Instead, it centers on James Sunderland, who enters the town after receiving a letter written by his deceased wife, saying she is waiting for him in their "special place" in Silent Hill. Joined by Maria who resembles her except for a more provocative outfit and personality, he searches for her and discovers the truth about her death. Additional material in re-releases and ports included Born from a Wish, a sub-scenario which focuses on Maria before she and James meet.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010929T000000</releasedate>
+		<developer>KCET</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko).chd</path>
+		<name>Silent Hill 3</name>
+		<desc>Silent Hill 3 continues the series' trademark brand of psychological horror and terrifying gameplay. As a teenage girl named Heather, you'll explore and unravel the mysterious connection between the godforsaken town and her inner fears. Along the way, you'll encounter many strange characters you're not sure are trustworthy. Silent Hill 3 also features enhanced graphical detail, a more complex storyline, new items and weapons, and even more grotesque monsters than the previous games. Step into this world of nightmares and fight to survive.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030805T000000</releasedate>
+		<developer>KCET</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Simpsons, The - Hit &amp; Run (USA).chd</path>
+		<name>The Simpsons : Hit &amp; Run</name>
+		<desc>Explore Springfield as your favorite Simpsons characters as you unravel the plot that threatens the town's very existence. Play as Homer, Bart, Marge, Lisa, and Apu in over 56 driving and on-foot missions in seven challenging levels. Drive in 40 of Springfield's finest vehicles including Mr. Plow and the Canyonero. Unlock the multiplayer mode to play against three other players. The world of the Simpsons has many gags and surprises in store for you.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030910T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Sly 2 - Band of Thieves (USA).chd</path>
+		<name>Sly 2 : Band of Thieves</name>
+		<desc>Thief and raccoon Sly Cooper returns in a new cel-shaded platforming adventure wherein he forms a band of thieves with Bentley the turtle and Murray the purple, hippo-like creature, which each have their own role within the game.
+
+Sly is the fastest, most agile member of the band of thieves and still is the character you play with the most. But certain missions require the special abilities of Bentley, who is smart and can drop bombs, as well shoot enemies from a distance. Other missions require the muscles of Murray, who can lift nearly everything, including enemies.
+
+The main goal of the game is the retrieval of a number of clockwork pieces from different locations around the world. Each theft has to be prepared with a number of sub-missions which have to be completed before the 'real thing' can begin.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040914T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sly 3 - Honor Among Thieves (USA).chd</path>
+		<name>Sly 3 : Honor Among Thieves</name>
+		<desc>Sly and the gang is back in this third outing of Sly Raccoon-series. This time, the story takes the boys (Sly, Bentley and Murray) to the fortress that houses the treasures of Sly's family. Although they are still weary from the adventures in the previous game, they have to get up and face the new threat that could mean the end of Sly's business and the loss of his family heritage. The game itself is a lot like the previous games: Sly sneaks, jumps, and swings himself around the levels, collecting various items, defeating bad guys and ultimately taking on the boss character. The other members of the gang step in on the action once in a while but the Sly centric sections are the main focus of the game. If you like games that had many things to do, this sneak-em-up/platform/action/adventure/puzzle game is for you.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050926T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Sly Cooper and the Thievius Raccoonus (USA).chd</path>
+		<name>Sly Cooper and the Thievius Raccoonus</name>
+		<desc>Sly Cooper is the latest in a long line of master thieves. When he was a kit, a gang called the Fiendish Five killed his family and divided up their book on the art of thieving: the Thievius Raccoonus. Sly must defeat all the members of the gang to recover the book while evading Carmelita Fox, a police officer chasing him around the world to apprehend him.
+
+This game is divided into five worlds, each themed around a particular part of the world and the villain headquartered there. Most worlds are structured as a central hub with entrances to numerous individual levels. Each of the levels has a primary goals which earns you a key. You must collect all the keys in the world to fight the world's boss.
+
+Many of the levels have a platformer structure. The objective of these worlds is to reach the location of the key. There are substantial stealth elements here as you must dodge searchlights and trips lasers which set off alarms and avoid alerting guards. In addition to the main objective, there are clue bottles to find. Finding all the clues in a level allows you to open a safe with a page from the Thievius Raccoonus which grants a new ability of some sort. After getting this, there is also a master thief sprint where you must get from the start of a level to the exit within a time limit.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020927T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./SOCOM II - U.S. Navy SEALs (USA).chd</path>
+		<name>SOCOM II : U.S. Navy SEALs</name>
+		<desc>SOCOM II is a third-person tactical shooter. There are 12 different single-player missions: split equally between Albania, Algeria, Brazil and Russia. There are five different ranks that can be played in the game: Ensign, Lieutenant, Commander, Captain and Admiral. The player starts with the first three ranks unlocked, but must finish the single player game on Commander to unlock Captain, and on Captain to unlock Admiral. Players can unlock new models for multiplayer, as well as movies, music, concept art, and credits by completing certain objectives.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031104T000000</releasedate>
+		<developer>Zipper Interactive</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Strategy</genre>
+		<players>2-16</players>
+	</game>
+	<game>
+		<path>./Soulcalibur II (USA).chd</path>
+		<name>Soulcalibur II</name>
+		<desc>Transcending history and the world, a tale of souls and swords eternally retold. 
+
+Four years have passed since the spirit sword, Soulcalibur defeated the evil Soul Edge. At the end of that fateful battle, the shards of the shattered Soul Edge were scattered across the world and Soulclibur was lost to the void. Now, the evil that still resides in the scattered shards of Soul Edge threatens again to engulf the world in darkness.
+
+Guest starring exclusively for the Playstation 2: Heihachi Mishima from the Tekken series.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030826T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting / 3D</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Spider-Man 2 (USA).chd</path>
+		<name>Spider-Man 2</name>
+		<desc>It is two years following the events of the first game. Spider-Man is trying to balance his civilian and superhero life, frequently late or absent for school, work, and leisure time with his friends. Following dinner with Mary Jane Watson, Peter thwarts an armed looting of an art museum, and tracks down an escaped robber, the Black Cat. Soon after this, he thwarts an attack in the streets of Manhattan by The Rhino. Meanwhile, Doctor Otto Octavius attempts to recreate nuclear fusion of that seen in the sun to provide an energy source for Manhattan. To control this fusion, he creates four metal arms which he can mentally control. His fusion creates a strong magnetic field, destroying the lab, killing his wife Rosie, and grafting his metal arms to his spine and giving his arms control over him. He blames Spider-Man for the incident, despite the fact that Spider-Man was not in the lab until the middle of it.</desc>
+		<rating>0.8</rating>
+		<releasedate>20040629T000000</releasedate>
+		<developer>Treyarch</developer>
+		<publisher>Activision</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./SSX 3 (USA).chd</path>
+		<name>SSX 3</name>
+		<desc>Drop in and conquer the massive, living mountain rife with ego-crushing challenges and gravity-bending thrills. SSX 3 returns with more slopes and all-new hazards to overcome including lightning storms, vertical drops, serpentine slopestyle courses and avalanches. Customize your rider's clothes, abilities, and moves. Pull off three levels of awesome "Uber tricks." Dominate the mountain, and then test your skills online. It's a long way down, so make sure you're ready for the challenge.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031002T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>EA Sports BIG</publisher>
+		<genre>Sports / Skiing</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./SSX Tricky (USA).chd</path>
+		<name>SSX Tricky</name>
+		<desc>SSX Tricky launches you into a world of monster air, intense tracks, and death-defying tricks. Six all-new competitors plus six riders from the original SSX make up the circuit. Compete in the World Circuit, go head-to-head in the Showoff versions of nine courses on the World Circuit, or just practice in Free Ride. With all-new Garibaldi and Valdez courses, you'll have plenty of huge cliff drops to catch big air and pull off Uber tricks.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011106T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>EA Sports BIG</publisher>
+		<genre>Sports / Skiing</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tekken 5 (USA).chd</path>
+		<name>Tekken 5</name>
+		<desc>After the completion of The King of Iron Fist Tournament 4, a fierce battle between father and son unfolded at Mishima Zaibatsu headquarters. Jin emerges as the victor in this battle and continues to defeat Heihachi, his grandfather - but spares both Kazuya and Heihachi's lives in honour of his mother who loved peace. Soon after Jin's departure, a swarm of Jacks arrive at Honmaru and begin to attack Heihachi and Kazuya - and in order to escape, Kazuya thrusts Heihachi into the swarm of Jacks. A great explosion destroys Honmaru, and a man watching from afar reports, "Heihachi Mishima is dead." While many presume the death of Heihachi Mishima will end the reign of Mishima Zaibatsu, an announcement is made for the fifth King of Iron Fist Tournament, with an unknown replacement to Heihachi leading the organization. The fight begins once again.
+
+Tekken 5 brings back the popular cast of characters from the previous games along with three new characters for a total of 20 default characters to start, with even more to unlock as you progress in the game. New to Tekken 5 is a bonus action adventure game that unfolds a side story to the action-packed fighting sequences.
+</desc>
+		<rating>0.9</rating>
+		<releasedate>20050224T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tenchu - Fatal Shadows (USA).chd</path>
+		<name>Tenchu : Fatal Shadows</name>
+		<desc>Tenchu Kurenai is a game where you play one of two Kunoichis (female ninjas) trying to complete missions. The game's main idea is to use stealth and be cunning to complete your goal.
+
+The story is set in the japanese Middle Ages. Ayame is a ninja working for a feudal lord. Dispatched for a mission in a destroyed village she meets Rin, who believes Ayame destroyed her village.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050217T000000</releasedate>
+		<developer>FromSoftware</developer>
+		<publisher>SEGA</publisher>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tenchu - Wrath of Heaven (USA) (En,Ja).chd</path>
+		<name>Tenchu : Wrath of Heaven</name>
+		<desc>Follow the path of the Ninja. Tenchu 3: Wrath of Heaven, the latest chapter in the Tenchu series, allows you to take on the role of three merciless assassins, with over 20 authentic ninja weapons and tools. Experience the all-new stealth attacks, combos, and enhanced fighting engine as you complete mission objections, including espionage, theft, and assassination. The more stealth kills you get, the more abilities and combos you earn. Can you master the action-packed gameplay and unlock the multiple game endings?</desc>
+		<rating>0.8</rating>
+		<releasedate>20030306T000000</releasedate>
+		<developer>Acquire</developer>
+		<publisher>Activision</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 3 (USA) (Rev 1).chd</path>
+		<name>Tony Hawk's Pro Skater 3</name>
+		<desc>This game saw the introduction of the revert, a trick that enabled vert combos to be tied together with a manual, by tapping a button when landing in a quarterpipe. This allowed for much longer combos than in the previous two games, where landing in a quarterpipe would finish a combo. The game also added hidden combos. These were variations on standard tricks that could be performed as grab, flip, lip, or grind tricks. For example, double-tapping the kickflip button would, naturally, make the character perform a double kickflip.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011030T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Neversoft</publisher>
+		<genre>Sports / Skateboard</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 4 (USA) (v2.01).chd</path>
+		<name>Tony Hawk's Pro Skater 4</name>
+		<desc>Drop into the ultimate challenge. In the next chapter in the Tony Hawk series, pros challenge you to make your mark in huge free-roaming levels, taking on 190 progressively harder goals with no time limits to hold you back. Decide when you're ready to take on your Pro Challenge and move into the pro ranks, where it's a whole new game. Build your skills, perform all-new tricks, play up to eight players online, and show that you've got what it takes to go Pro.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021023T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports / Skateboard</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Twisted Metal - Black (USA).chd</path>
+		<name>Twisted Metal : Black</name>
+		<desc>Twisted Metal: Black is a demolition derby that permits the usage of ballistic projectiles. Players choose a vehicle and an arena?or a series of arenas in the story mode?to engage in battle with opposing drivers. A variety of weapons and upgrades are obtainable by pick-ups scattered throughout the stage. The objective of the game is to be the last one standing.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010618T000000</releasedate>
+		<developer>Incognito</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Shooter / Vehicle, TPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Virtua Fighter 4 - Evolution (USA).chd</path>
+		<name>Virtua Fighter 4 : Evolution</name>
+		<desc>Evolution was an updated version of Virtua Fighter 4. The game introduced two new characters and adjusted every other character as well. The two new characters were the Judoka-assassin, Goh Hinogami and the Muay Thai boxer Brad Burns. With the addition of Brad Burns, Vanessa Lewis's alternate Muay Thai style from Virtua Fighter 4 was removed and replaced with a Vale Tudo "Offensive" style; making her a solely Vale Tudo brawler.
+
+All of the stages were adjusted. For example, Lei-Fei's stage in Virtua Fighter 4 previously took place during sunset, in Evolution it takes place during the morning.</desc>
+		<rating>0.8</rating>
+		<releasedate>20030702T000000</releasedate>
+		<developer>SEGA AM2</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting / 3D</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./We Love Katamari (USA).chd</path>
+		<name>We Love Katamari</name>
+		<desc>The quirky gameplay that captivated the world returns to roll up anything and everything that gets in your way! The King of All Cosmos grew to stardom after replacing the stars with the Prince's Katamaris. In response to this new found fame, the King is out to appease his fans with the help of the Prince and his cousins. Now they are tasked with rolling up even more clumps, each larger and more different than the one before. Roll up new objects in different objectives and experience all new levels and environments. All new creative art design, soundtrack, and 2-player co-op mode and expanded battle mode!</desc>
+		<rating>0.9</rating>
+		<releasedate>20050920T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./World Soccer Winning Eleven 9 (USA) (En,Es).chd</path>
+		<name>World Soccer : Winning Eleven 9</name>
+		<desc>Pro Evolution Soccer 5 (known as World Soccer: Winning Eleven 9 in North America and Japan) is a football video game developed and produced by Konami as part of the Pro Evolution Soccer series.
+
+With featuring Arsenal and Chelsea it is the first release of the series which offered fully licensed clubs from the Premier League, which is one of the 3 unlicensed leagues of the game. There are also 3 licensed leagues just like in the predecessor Pro Evolution Soccer 4. The game also includes 3 fully licensed leagues, which are the Spanish Liga Española, the Dutch Eredivisie and the Italian Serie A (with the exception of Cagliari).</desc>
+		<rating>0.9</rating>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Football (Soccer)</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Zone of the Enders (USA).chd</path>
+		<name>Zone of the Enders</name>
+		<desc>Zone of the Enders follows the endeavors of a boy named Leo Stenbuck, a colonist from Jupiter who finds himself piloting the Orbital Frame Jehuty...
+
+Take control of a fully armed prototype mechanized robot to fight off enemies during a space colony hijack. You become the character Leo Stenbuck, a soldier who sees the consequences of fighting firsthand and learns the true meaning of life and death. Conquer missions that change each time you play, or challenge a friend to a heated match. Zone of the Enders combines rich cityscapes and intricate canyons with futuristic weaponry and an intense storyline.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010301T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Zone of the Enders - The 2nd Runner (USA).chd</path>
+		<name>Zone of the Enders : The 2nd Runner</name>
+		<desc>The game begins with Dingo Egret, working at a mining facility on Callisto. He inadvertently discovers the Orbital Frame, Jehuty, that was hidden there. When he is attacked by BAHRAM forces who have come to seize it, Dingo climbs into Jehuty and engages the attackers. During the battle, Dingo enters the BAHRAM battleship, seemingly defeating Nephtis, an Orbital Frame controlled by an A.I. program, but is subdued by Anubis, Jehuty's superior counterpart controlled by Col. Ridley Hardiman, leader of BAHRAM.
+
+As a prisoner, Dingo is assaulted by Ken Marinaris, a female Orbital Frame runner that Dingo defeated in the previous battle. Nohman arrives moments later and asks Dingo to join him. When Dingo refuses, Nohman shoots him, ordering Ken to dispose of the body. Instead, Ken has Dingo revived and placed inside Jehuty. She then tells him that she is a UNSF spy. Dingo escapes with Taper and heads for Mars.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030314T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / TPV</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

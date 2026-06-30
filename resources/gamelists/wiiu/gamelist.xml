@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Breath of the Wild (US) (v208).wua</path>
+		<name>The Legend of Zelda: Breath of the Wild</name>
+		<desc>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this stunning open-air adventure.</desc>
+		<rating>1</rating>
+		<releasedate>20170303T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<folder>
+		<path>./MARIO KART 8 [000500001010EC00]</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
+
+The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<rating>0.9</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-4</players>
+	</folder>
+	<folder>
+		<path>./MARIO KART 8 [0005000C1010EC00] [DLC]</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
+
+The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<rating>0.9</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-4</players>
+	</folder>
+	<folder>
+		<path>./MARIO KART 8 [0005000E1010EC00] [UPDATE v64]</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
+
+The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<rating>0.9</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-4</players>
+	</folder>
+	<folder>
+		<path>./New SUPER MARIO BROS. U [0005000010101D00]</path>
+		<name>New Super Mario Bros. U</name>
+		<desc>Mario will leap onto Wii U in New Super Mario Bros. U, a new side-scrolling adventure that introduces new transformations for Mario and the ability for players to play as their Mii characters. The game also introduces the new Boost Mode, which can be used to add blocks, to help players avoid enemies, enable Mario to discover secrets or allow multiple players working together to perform a speed run in record time.</desc>
+		<rating>0.8</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-5</players>
+	</folder>
+	<folder>
+		<path>./New SUPER MARIO BROS. U [0005000C10101D00] [DLC]</path>
+		<name>New Super Mario Bros. U</name>
+		<desc>Mario will leap onto Wii U in New Super Mario Bros. U, a new side-scrolling adventure that introduces new transformations for Mario and the ability for players to play as their Mii characters. The game also introduces the new Boost Mode, which can be used to add blocks, to help players avoid enemies, enable Mario to discover secrets or allow multiple players working together to perform a speed run in record time.</desc>
+		<rating>0.8</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-5</players>
+	</folder>
+	<folder>
+		<path>./New SUPER MARIO BROS. U [0005000E10101D00] [UPDATE v64]</path>
+		<name>New Super Mario Bros. U</name>
+		<desc>Mario will leap onto Wii U in New Super Mario Bros. U, a new side-scrolling adventure that introduces new transformations for Mario and the ability for players to play as their Mii characters. The game also introduces the new Boost Mode, which can be used to add blocks, to help players avoid enemies, enable Mario to discover secrets or allow multiple players working together to perform a speed run in record time.</desc>
+		<rating>0.8</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-5</players>
+	</folder>
+	<folder>
+		<path>./Super Mario Maker [000500001018DC00]</path>
+		<name>Super Mario Maker</name>
+		<desc>Super Mario Maker lets people's imaginations run wild. For the first time ever, friends can have fun playing through levels they create for one another. The Wii U GamePad controller makes it so easy for anyone to create levels; it may feel like simply sketching out ideas on paper. Players can enjoy a seemingly endless supply of inventive Mario levels from players around the world.</desc>
+		<rating>0.9</rating>
+		<releasedate>20150911T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</folder>
+	<folder>
+		<path>./Super Mario Maker [0005000E1018DC00] [UPDATE v272]</path>
+		<name>Super Mario Maker</name>
+		<desc>Super Mario Maker lets people's imaginations run wild. For the first time ever, friends can have fun playing through levels they create for one another. The Wii U GamePad controller makes it so easy for anyone to create levels; it may feel like simply sketching out ideas on paper. Players can enjoy a seemingly endless supply of inventive Mario levels from players around the world.</desc>
+		<rating>0.9</rating>
+		<releasedate>20150911T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</folder>
+	<folder>
+		<path>./Super Smash Bros. for Wii U [0005000010144F00]</path>
+		<name>Super Smash Bros. for Wii U</name>
+		<desc>Mario! Link! Samus! Pikachu! All of your favorite Nintendo characters are back, along with plenty of new faces, in Super Smash Bros. for Wii U, the next entry in the beloved Super Smash Bros. series.
+
+Up to four players can battle each other locally or online across beautifully designed stages inspired by classic Nintendo home console games. With a variety of control options and amiibo compatibility, the timeless Super Smash Bros. battles come alive.</desc>
+		<rating>0.9</rating>
+		<releasedate>20141121T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>1-8</players>
+	</folder>
+	<folder>
+		<path>./Super Smash Bros. for Wii U [0005000C10144F00] [DLC]</path>
+		<name>Super Smash Bros. for Wii U</name>
+		<desc>Mario! Link! Samus! Pikachu! All of your favorite Nintendo characters are back, along with plenty of new faces, in Super Smash Bros. for Wii U, the next entry in the beloved Super Smash Bros. series.
+
+Up to four players can battle each other locally or online across beautifully designed stages inspired by classic Nintendo home console games. With a variety of control options and amiibo compatibility, the timeless Super Smash Bros. battles come alive.</desc>
+		<rating>0.9</rating>
+		<releasedate>20141121T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>1-8</players>
+	</folder>
+	<folder>
+		<path>./Super Smash Bros. for Wii U [0005000E10144F00] [UPDATE v304]</path>
+		<name>Super Smash Bros. for Wii U</name>
+		<desc>Mario! Link! Samus! Pikachu! All of your favorite Nintendo characters are back, along with plenty of new faces, in Super Smash Bros. for Wii U, the next entry in the beloved Super Smash Bros. series.
+
+Up to four players can battle each other locally or online across beautifully designed stages inspired by classic Nintendo home console games. With a variety of control options and amiibo compatibility, the timeless Super Smash Bros. battles come alive.</desc>
+		<rating>0.9</rating>
+		<releasedate>20141121T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>1-8</players>
+	</folder>
+	<folder>
+		<path>./Xenoblade Chronicles X [00050000101C4D00]</path>
+		<name>Xenoblade Chronicles X</name>
+		<desc>The next massive sci-fi role-playing game from Monolith Soft, creators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to Wii U. In Xenoblade Chronicles X, a terrible intergalactic war leaves just a handful of Earth survivors trying to live in a beautiful yet hostile environment. Players engage in battles against powerful creatures of all forms and sizes using the deep battle system that builds on the triumphs of the team's previous RPG adventures.</desc>
+		<rating>0.9</rating>
+		<releasedate>20151204T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-4</players>
+	</folder>
+	<folder>
+		<path>./Xenoblade Chronicles X [0005000C101C4D00] [DLC]</path>
+		<name>Xenoblade Chronicles X</name>
+		<desc>The next massive sci-fi role-playing game from Monolith Soft, creators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to Wii U. In Xenoblade Chronicles X, a terrible intergalactic war leaves just a handful of Earth survivors trying to live in a beautiful yet hostile environment. Players engage in battles against powerful creatures of all forms and sizes using the deep battle system that builds on the triumphs of the team's previous RPG adventures.</desc>
+		<rating>0.9</rating>
+		<releasedate>20151204T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-4</players>
+	</folder>
+	<folder>
+		<path>./Xenoblade Chronicles X [0005000E101C4D00] [UPDATE v48]</path>
+		<name>Xenoblade Chronicles X</name>
+		<desc>The next massive sci-fi role-playing game from Monolith Soft, creators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to Wii U. In Xenoblade Chronicles X, a terrible intergalactic war leaves just a handful of Earth survivors trying to live in a beautiful yet hostile environment. Players engage in battles against powerful creatures of all forms and sizes using the deep battle system that builds on the triumphs of the team's previous RPG adventures.</desc>
+		<rating>0.9</rating>
+		<releasedate>20151204T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-4</players>
+	</folder>
+	<game>
+		<path>./BAYONETTA 2 (US).wua</path>
+		<name>Bayonetta 2</name>
+		<desc>Bayonetta 2 is the sequel to Bayonetta. You play as Bayonetta, an Umbran Witch who is out to rescue her friend Jeanne from the depths of Inferno. The game is set a few months after the events of the first game. Along the way she has to battle a host of angels and demons who are out to stop her. This is a 3rd-person action game in the mold of Devil May Cry or God of War, fighting multiple enemies and combining different moves based on melee combat and gunplay. The game is all about pulling off fantastic combos with precise timing as you face a number of memorable battles in a variety of locations.</desc>
+		<rating>0.9</rating>
+		<releasedate>20141024T000000</releasedate>
+		<developer>PlatinumGames</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./MARIO KART 8 (US) (v64).wua</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
+
+The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<rating>0.9</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./New SUPER MARIO BROS. U (US) (v64).wua</path>
+		<name>New Super Mario Bros. U</name>
+		<desc>Mario will leap onto Wii U in New Super Mario Bros. U, a new side-scrolling adventure that introduces new transformations for Mario and the ability for players to play as their Mii characters. The game also introduces the new Boost Mode, which can be used to add blocks, to help players avoid enemies, enable Mario to discover secrets or allow multiple players working together to perform a speed run in record time.</desc>
+		<rating>0.8</rating>
+		<releasedate>20121118T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-5</players>
+	</game>
+	<game>
+		<path>./The Wind Waker HD (US).wua</path>
+		<name>The Legend of Zelda : The Wind Waker HD</name>
+		<desc>Link is a young boy who lives with his grandmother on the Outset Island, one of the many small islands lost amidst the waters of the Great Sea. On his tenth birthday, Link encounters a giant bird carrying a girl. Link rescues the girl, but as a result his own sister is taken away by the bird. The unknown girl is a pirate captain named Tetra, who agrees to help Link find and rescue his sister. During the course of their journey the two realize that a powerful, legendary evil is active again, and must find a way to stop him.</desc>
+		<rating>0.9</rating>
+		<releasedate>20131004T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+</gameList>
