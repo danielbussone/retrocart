@@ -122,7 +122,8 @@ Extend existing schema in [`db/sql/`](../db/sql/) (Flyway for dev; SQLite migrat
 
 ### Repurpose `catalog` → device library intent
 
-- Add `device` table: name, `frontend_type` (`esde` | `onion`), storage budget, optional hardware label, `mount_label_hint` (Windows volume label, e.g. `MIYOO`), optional last-seen mount path (informational only — not used as identity)
+- Add `device` table: name, **short_name** (user-set nickname, e.g. `MM+`, `RP6` — used as the compact column header in the library table instead of full device names), `frontend_type` (`esde` | `onion`), storage budget, optional hardware label, `mount_label_hint` (Windows volume label, e.g. `MIYOO`), optional last-seen mount path (informational only — not used as identity)
+- Device creation/edit form must prompt for `short_name` (default to first 4 chars of name if left blank); library table column headers use `short_name` with full name as a hover tooltip
 - Add `catalog.device_id` FK — each catalog **is** the intended library for one device (existing `catalog_entry` = tagged ROMs)
 - Add `catalog_entry.sync_status`: `pending_add` | `synced` | `pending_remove` | `conflict`
 

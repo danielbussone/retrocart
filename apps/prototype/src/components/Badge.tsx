@@ -1,10 +1,10 @@
 import type { SyncStatus } from '../types'
 
 const STATUS_STYLES: Record<SyncStatus, string> = {
-  synced: 'bg-rc-green/15 text-rc-green border-rc-green/30',
-  pending_add: 'bg-rc-amber/15 text-rc-amber border-rc-amber/30',
-  pending_remove: 'bg-rc-orange/15 text-rc-orange border-rc-orange/30',
-  conflict: 'bg-rc-red/15 text-rc-red border-rc-red/30',
+  synced: 'bg-rc-green/20 text-rc-green border-rc-green/60',
+  pending_add: 'bg-rc-amber/20 text-rc-amber border-rc-amber/60',
+  pending_remove: 'bg-rc-orange/20 text-rc-orange border-rc-orange/60',
+  conflict: 'bg-rc-red/20 text-rc-red border-rc-red/60',
 }
 
 const STATUS_LABELS: Record<SyncStatus, string> = {
@@ -27,8 +27,8 @@ export function StatusBadge({ status }: { status: SyncStatus }) {
 
 export function FrontendBadge({ type }: { type: 'onion' | 'esde' }) {
   return type === 'onion'
-    ? <span className="px-1.5 py-0.5 text-[10px] font-mono border border-rc-amber/40 text-rc-amber bg-rc-amber/10 rounded">OnionOS</span>
-    : <span className="px-1.5 py-0.5 text-[10px] font-mono border border-rc-blue/40 text-rc-blue bg-rc-blue/10 rounded">ES-DE</span>
+    ? <span className="px-1.5 py-0.5 text-[10px] font-mono border border-rc-amber/70 text-rc-amber bg-rc-amber/15 rounded">OnionOS</span>
+    : <span className="px-1.5 py-0.5 text-[10px] font-mono border border-rc-blue/70 text-rc-blue bg-rc-blue/15 rounded">ES-DE</span>
 }
 
 export function Chip({ label, color }: { label: string; color: string }) {

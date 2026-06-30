@@ -219,10 +219,10 @@ export function Library() {
                           title={tag ? `${d.name}: ${tag} — click to toggle` : `Add to ${d.name}`}
                           onClick={() => toggleDeviceTag(item.id, d.id)}
                           className={`w-6 h-6 rounded border text-[10px] font-mono transition-all ${
-                            tag === 'synced'         ? 'bg-rc-green/15 border-rc-green/40 text-rc-green hover:bg-rc-green/25' :
-                            tag === 'pending_add'    ? 'bg-rc-amber/15 border-rc-amber/40 text-rc-amber hover:bg-rc-amber/25 animate-pulse-slow' :
-                            tag === 'pending_remove' ? 'bg-rc-orange/15 border-rc-orange/40 text-rc-orange hover:bg-rc-orange/25' :
-                            tag === 'conflict'       ? 'bg-rc-red/15 border-rc-red/40 text-rc-red hover:bg-rc-red/25' :
+                            tag === 'synced'         ? 'bg-rc-green/20 border-rc-green/65 text-rc-green hover:bg-rc-green/35' :
+                            tag === 'pending_add'    ? 'bg-rc-amber/20 border-rc-amber/65 text-rc-amber hover:bg-rc-amber/35 animate-pulse-slow' :
+                            tag === 'pending_remove' ? 'bg-rc-orange/20 border-rc-orange/65 text-rc-orange hover:bg-rc-orange/35' :
+                            tag === 'conflict'       ? 'bg-rc-red/20 border-rc-red/65 text-rc-red hover:bg-rc-red/35' :
                             'border-rc-border text-rc-dim hover:border-rc-amber/40 hover:text-rc-amber'
                           }`}
                         >

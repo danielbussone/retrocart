@@ -1,5 +1,5 @@
 import { NavLink, useNavigate } from 'react-router-dom'
-import { Library, Monitor, Layers, RefreshCw, Settings, Gamepad2 } from 'lucide-react'
+import { Library, Monitor, Layers, RefreshCw, Settings, Gamepad2, Sun, Moon } from 'lucide-react'
 import { useApp } from '../store/AppContext'
 import { FrontendBadge } from '../components/Badge'
 
@@ -11,7 +11,7 @@ const NAV = [
 ]
 
 export function Sidebar() {
-  const { devices } = useApp()
+  const { devices, theme, toggleTheme } = useApp()
   const navigate = useNavigate()
 
   return (
@@ -62,6 +62,17 @@ export function Sidebar() {
           </button>
         ))}
       </nav>
+
+      {/* Theme toggle */}
+      <div className="px-3 py-3 border-t border-rc-border/40">
+        <button
+          onClick={toggleTheme}
+          className="w-full flex items-center gap-2.5 px-3 py-2 rounded text-sm text-rc-dim hover:text-rc-text hover:bg-rc-surface2 transition-colors"
+        >
+          {theme === 'light' ? <Moon size={14} /> : <Sun size={14} />}
+          <span className="font-mono text-xs">{theme === 'light' ? 'Dark mode' : 'Light mode'}</span>
+        </button>
+      </div>
     </aside>
   )
 }

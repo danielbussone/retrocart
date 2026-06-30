@@ -20,6 +20,7 @@ interface AppState {
   filter: LibraryFilter
   sortKey: LibrarySortKey
   sortDir: SortDir
+  theme: 'light' | 'dark'
 }
 
 interface AppActions {
@@ -36,6 +37,7 @@ interface AppActions {
   setSort: (key: LibrarySortKey, dir: SortDir) => void
   addLibraryRoot: (path: string) => void
   removeLibraryRoot: (path: string) => void
+  toggleTheme: () => void
 }
 
 const Ctx = createContext<(AppState & AppActions) | null>(null)
@@ -54,6 +56,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
   })
   const [sortKey, setSortKey] = useState<LibrarySortKey>('title')
   const [sortDir, setSortDir] = useState<SortDir>('asc')
+  const [theme, setTheme] = useState<'light' | 'dark'>('light')
 
   function completeOnboarding(roots: string[]) {
     setLibraryRoots(roots)
@@ -120,11 +123,19 @@ export function AppProvider({ children }: { children: ReactNode }) {
     setLibraryRoots(prev => prev.filter(p => p !== path))
   }
 
+  function toggleTheme() {
+    setTheme(t => {
+      const next = t === 'light' ? 'dark' : 'light'
+      document.documentElement.dataset.theme = next === 'dark' ? 'dark' : ''
+      return next
+    })
+  }
+
   return (
     <Ctx.Provider value={{
       library, devices, collections, syncPlan, syncResult,
       hasOnboarded, libraryRoots, activeSyncDeviceId,
-      filter, sortKey, sortDir,
+      filter, sortKey, sortDir, theme,
       completeOnboarding,
       toggleDeviceTag, setTagBulk,
       updateCollection, addCollection, deleteCollection,
@@ -133,6 +144,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
       setActiveSyncDeviceId,
       setFilter, setSort,
       addLibraryRoot, removeLibraryRoot,
+      toggleTheme,
     }}>
       {children}
     </Ctx.Provider>

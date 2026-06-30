@@ -3,13 +3,83 @@
 @tailwind utilities;
 
 @layer base {
+  /* ── Light mode – SNES gray ── */
+  :root {
+    --rc-bg: #c0c2c0;
+    --rc-surface: #c8cac8;
+    --rc-surface2: #d0d2d0;
+    --rc-surface3: #d8dad8;
+    /* space-separated RGB channels — required for Tailwind opacity modifiers like bg-rc-amber/20 */
+    --rc-border: 112 115 114;
+    --rc-border2: 84 88 90;
+    --rc-amber: 81 70 137;
+    --rc-amber-bright: #a7a4e0;
+    --rc-amber-dim: #332d60;
+    --rc-green: 46 125 50;
+    --rc-green-dim: #1b5e20;
+    --rc-red: 198 40 40;
+    --rc-red-dim: #7f0000;
+    --rc-orange: 230 81 0;
+    --rc-blue: 21 101 192;
+    --rc-text: #2a2448;
+    --rc-muted: #514689;
+    --rc-dim: #6e6c88;
+    /* console badge text colors */
+    --con-nes: #b03020;
+    --con-snes: #514689;
+    --con-gba: #6d3292;
+    --con-gb: #3d3d3d;
+    --con-gbc: #8a6400;
+    --con-psx: #1456a0;
+    --con-gen: #b84800;
+    --con-n64: #0a7a8a;
+    --badge-bg: rgba(255, 255, 255, 0.55);
+    --shadow-amber: 0 0 14px rgba(81, 70, 137, 0.4);
+    --shadow-amber-sm: 0 0 7px rgba(81, 70, 137, 0.3);
+    --shadow-inset-amber: inset 0 0 0 1px rgba(81, 70, 137, 0.45);
+  }
+
+  /* ── Dark mode – SNES purple ── */
+  [data-theme="dark"] {
+    --rc-bg: #1a1530;
+    --rc-surface: #231e42;
+    --rc-surface2: #2d2758;
+    --rc-surface3: #382f6e;
+    --rc-border: 81 70 137;
+    --rc-border2: 167 164 224;
+    --rc-amber: 167 164 224;
+    --rc-amber-bright: #c4c2ee;
+    --rc-amber-dim: #6a689a;
+    --rc-green: 102 187 106;
+    --rc-green-dim: #2e7d32;
+    --rc-red: 239 83 80;
+    --rc-red-dim: #c62828;
+    --rc-orange: 255 112 67;
+    --rc-blue: 66 165 245;
+    --rc-text: #e8e5f8;
+    --rc-muted: #a7a4e0;
+    --rc-dim: #7875a8;
+    --con-nes: #ef6050;
+    --con-snes: #a7a4e0;
+    --con-gba: #b07ace;
+    --con-gb: #b0b0b0;
+    --con-gbc: #f0c040;
+    --con-psx: #5090e0;
+    --con-gen: #f09040;
+    --con-n64: #40c8d8;
+    --badge-bg: rgba(255, 255, 255, 0.08);
+    --shadow-amber: 0 0 14px rgba(167, 164, 224, 0.4);
+    --shadow-amber-sm: 0 0 7px rgba(167, 164, 224, 0.3);
+    --shadow-inset-amber: inset 0 0 0 1px rgba(167, 164, 224, 0.45);
+  }
+
   * {
     scrollbar-width: thin;
-    scrollbar-color: #343244 transparent;
+    scrollbar-color: rgb(var(--rc-border)) transparent;
   }
   *::-webkit-scrollbar { width: 6px; height: 6px; }
   *::-webkit-scrollbar-track { background: transparent; }
-  *::-webkit-scrollbar-thumb { background: #707372; border-radius: 3px; }
-  *::-webkit-scrollbar-thumb:hover { background: #54585a; }
-  body { background: #b2b4b2; color: #2a2448; }
+  *::-webkit-scrollbar-thumb { background: rgb(var(--rc-border)); border-radius: 3px; }
+  *::-webkit-scrollbar-thumb:hover { background: rgb(var(--rc-border2)); }
+  body { background: var(--rc-bg); color: var(--rc-text); }
 }

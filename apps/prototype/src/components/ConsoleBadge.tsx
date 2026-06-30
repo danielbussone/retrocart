@@ -1,14 +1,14 @@
 import type { ConsoleId } from '../types'
 
 const CONSOLE_META: Record<ConsoleId, { label: string; color: string }> = {
-  nes:     { label: 'NES',     color: '#e85d4a' },
-  snes:    { label: 'SNES',    color: '#7b5fe8' },
-  gba:     { label: 'GBA',     color: '#9b59b6' },
-  gb:      { label: 'GB',      color: '#aaaaaa' },
-  gbc:     { label: 'GBC',     color: '#e8c53a' },
-  psx:     { label: 'PS1',     color: '#4a8fe8' },
-  genesis: { label: 'GEN',     color: '#e87a3a' },
-  n64:     { label: 'N64',     color: '#3abfe8' },
+  nes:     { label: 'NES',     color: 'var(--con-nes)' },
+  snes:    { label: 'SNES',    color: 'var(--con-snes)' },
+  gba:     { label: 'GBA',     color: 'var(--con-gba)' },
+  gb:      { label: 'GB',      color: 'var(--con-gb)' },
+  gbc:     { label: 'GBC',     color: 'var(--con-gbc)' },
+  psx:     { label: 'PS1',     color: 'var(--con-psx)' },
+  genesis: { label: 'GEN',     color: 'var(--con-gen)' },
+  n64:     { label: 'N64',     color: 'var(--con-n64)' },
 }
 
 export function ConsoleBadge({ console: con }: { console: ConsoleId }) {
@@ -18,8 +18,8 @@ export function ConsoleBadge({ console: con }: { console: ConsoleId }) {
       className="inline-flex items-center px-1.5 py-0.5 text-[10px] font-mono font-semibold rounded border"
       style={{
         color: meta.color,
-        borderColor: `${meta.color}50`,
-        backgroundColor: `${meta.color}18`,
+        borderColor: meta.color,
+        backgroundColor: 'var(--badge-bg)',
       }}
     >
       {meta.label}
